@@ -1,0 +1,8 @@
+models:
+  - name: dim_client
+    columns:
+      - name: 'customer_id'
+        tests:
+          - unique
+          - not_null
+          

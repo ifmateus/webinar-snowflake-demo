@@ -1,0 +1,12 @@
+models:
+  - name: fact_sales
+    columns:
+      - name: 'customer_id'
+        tests:
+          - relationships:
+              to: ref('dim_client')
+              field: 'customer_id'
+          - relationship_except:
+              to: ref('dim_industry')
+              field: 'customer_id'
+              except: ['0']
