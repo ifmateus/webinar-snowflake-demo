@@ -1,1 +1,2 @@
-SELECT * FROM {{ ref("customer_bp")}}
+SELECT *
+ FROM  {{ ref("customer_bp")}}

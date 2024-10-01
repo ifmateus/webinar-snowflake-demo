@@ -1,1 +1,2 @@
-select * from {{ ref("sales_basis_nhl")}}
+select *
+ from {{ ref("sales_basis_nhl")}}

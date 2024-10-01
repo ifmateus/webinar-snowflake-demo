@@ -1,12 +1,44 @@
 models:
-  - name: dim_client #model name
+  - name: dim_client
     columns:
-      - name: 'client_id' #column to test
+      - name: client_id
         tests:
-          - unique
           - not_null
-      - name: 'client_type'
+          - unique:
+              config:
+                severity: error
+      - name: client_name
         tests:
-        - accepted_values:
-            values: [individual,company]
-            quote: true
+          - unique:
+              config:
+                severity: error
+                error_if: ">1000"
+                warn_if: ">10"
+      - name: client_type
+        tests:
+          - accepted_values:
+              values: [individual, company]
+              quote: true
+              config:
+                severity: warn
+      - name: cellphone
+        tests:
+          - dbt_expectations.expect_column_values_to_match_like_pattern:
+              like_pattern: '^\d{10,12}$'
+              config:
+                severity: warn
+  - name: dim_industry
+    columns:
+      - name: industry_id
+        tests:
+          - not_null
+          - unique:
+              config:
+                severity: error
+      - name: industry_name
+        tests:
+          - unique:
+              config:
+                severity: error
+                error_if: ">4"
+                warn_if: ">1"

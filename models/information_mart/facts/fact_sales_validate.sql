@@ -1,0 +1,1 @@
+select * from {{ ref("sales_basis_nhl_system_2")}}
