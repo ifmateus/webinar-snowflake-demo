@@ -5,8 +5,10 @@ models:
         tests:
           - relationships:
               to: ref('dim_client')
-              field: 'customer_id'
+              field: client_id
+      - name: 'industry_id'
+        tests:
           - relationship_except:
               to: ref('dim_industry')
-              field: 'customer_id'
+              column_name: industry_id
               except: ['0']

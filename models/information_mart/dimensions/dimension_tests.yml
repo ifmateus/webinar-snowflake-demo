@@ -1,8 +1,12 @@
 models:
-  - name: dim_client
+  - name: dim_client #model name
     columns:
-      - name: 'customer_id'
+      - name: 'client_id' #column to test
         tests:
           - unique
           - not_null
-          
+      - name: 'client_type'
+        tests:
+        - accepted_values:
+            values: [individual,company]
+            quote: true

@@ -1,0 +1,1001 @@
+SALE_ID,PRODUCT_ID,CUSTOMER_ID,SALE_DATE,ONLINE_ORDER,ORDER_STATUS,BRAND,PRODUCT_LINE,PRODUCT_CLASS,PRODUCT_SIZE,LIST_PRICE,STANDARD_COST,PRODUCT_FIRST_SOLD_DATE,discount,industry_id
+14931,31,1,14/12/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,230.91,$173.18 ,37337,0,0
+9785,72,1,5/1/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,37873,2,2
+13644,25,1,19/05/2017,FALSE,Approved,Giant Bicycles,Road,medium,medium,1538.99,$829.65 ,33552,1,1
+16423,9,1,9/12/2017,TRUE,Approved,OHM Cycles,Road,medium,medium,742.54,$667.40 ,37838,0,0
+15663,32,1,4/6/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,642.7,$211.37 ,40618,0,0
+5157,47,1,11/5/2017,TRUE,Approved,Trek Bicycles,Road,low,small,1720.7,"$1,531.42 ",37823,1,1
+94,86,1,23/12/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,235.63,$125.07 ,38482,2,2
+3765,38,1,6/4/2017,TRUE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,39526,2,2
+18970,11,1,29/03/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1274.93,$764.96 ,35378,1,1
+13424,2,1,21/02/2017,FALSE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,38573,0,0
+14486,23,1,27/03/2017,FALSE,Approved,Norco Bicycles,Mountain,low,small,688.63,$612.88 ,33455,2,2
+6743,85,2,11/6/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,752.64,$205.36 ,38206,1,1
+2261,1,2,4/5/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,40784,0,0
+16411,26,2,24/08/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1992.93,$762.63 ,37337,0,0
+12954,77,3,5/4/2017,FALSE,Approved,Norco Bicycles,Road,medium,large,1240.31,$795.10 ,36833,1,1
+15188,82,3,24/03/2017,FALSE,Approved,Norco Bicycles,Standard,high,medium,1148.64,$689.18 ,37499,2,2
+10302,33,3,23/02/2017,FALSE,Approved,Giant Bicycles,Standard,medium,small,1311.44,"$1,167.18 ",41009,2,2
+16725,90,3,26/06/2017,,Approved,Norco Bicycles,Standard,low,medium,363.01,$290.41 ,40303,1,1
+11784,55,3,21/04/2017,TRUE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,41701,0,0
+11005,94,3,16/09/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,1635.3,$993.66 ,41009,2,2
+13285,47,3,4/9/2017,FALSE,Approved,Trek Bicycles,Road,low,small,1720.7,"$1,531.42 ",40303,1,1
+19498,5,3,19/09/2017,FALSE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,36145,0,0
+14648,62,4,18/06/2017,TRUE,Approved,Solex,Standard,medium,medium,478.16,$298.72 ,34143,0,0
+12441,95,4,3/4/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,569.56,$528.43 ,37874,1,1
+2534,84,5,3/5/2017,FALSE,Approved,Trek Bicycles,Road,medium,medium,290.62,$215.14 ,37626,2,2
+13058,96,5,26/05/2017,TRUE,Approved,WeareA2B,Road,low,small,1172.78,"$1,043.77 ",33364,2,2
+2250,34,5,16/08/2017,FALSE,Approved,Norco Bicycles,Road,high,large,774.53,$464.72 ,39526,1,1
+7692,39,5,14/12/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,1812.75,$582.48 ,39526,0,0
+19993,13,5,28/04/2017,FALSE,Approved,Solex,Standard,medium,medium,1163.89,$589.27 ,39880,2,2
+2291,23,5,3/3/2017,TRUE,Approved,Norco Bicycles,Mountain,low,small,688.63,$612.88 ,34244,1,1
+902,0,6,21/05/2017,FALSE,Approved,Trek Bicycles,Standard,high,medium,358.39,$215.03 ,33364,0,0
+7096,77,6,28/01/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1769.64,$108.76 ,41848,0,0
+4013,0,6,16/09/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,230.91,$173.18 ,36361,1,1
+5749,54,6,27/10/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1807.45,$778.69 ,40410,2,2
+8204,12,6,6/2/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,1765.3,$709.48 ,42226,2,2
+18369,72,7,18/02/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,37499,1,1
+18549,22,7,24/02/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,60.34,$45.26 ,42404,0,0
+3954,5,7,21/04/2017,FALSE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,38258,2,2
+8415,76,8,11/4/2017,FALSE,Approved,WeareA2B,Standard,low,medium,642.31,$513.85 ,38482,1,1
+15024,1,8,21/04/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,35667,0,0
+19844,3,8,28/01/2017,,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,37823,0,0
+3688,15,8,22/09/2017,TRUE,Approved,Norco Bicycles,Standard,low,medium,958.74,$748.90 ,41345,1,1
+13266,4,8,4/10/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,37698,2,2
+9039,4,8,21/10/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,37698,2,2
+5321,3,8,8/12/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,37823,1,1
+10792,89,8,4/1/2017,TRUE,Approved,WeareA2B,Touring,medium,large,1362.99,$57.74 ,42560,0,0
+7636,34,8,13/07/2017,TRUE,Approved,Norco Bicycles,Road,high,large,774.53,$464.72 ,41064,2,2
+17199,45,8,11/8/2017,FALSE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,42172,1,1
+2501,59,9,10/5/2017,FALSE,Approved,Solex,Standard,medium,large,1061.56,$733.58 ,42172,0,0
+2979,85,9,6/3/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,752.64,$205.36 ,36367,0,0
+4233,36,9,13/10/2017,FALSE,Approved,Solex,Standard,low,medium,945.04,$507.58 ,40336,1,1
+8591,69,9,4/2/2017,FALSE,Approved,Giant Bicycles,Road,medium,medium,792.9,$594.68 ,41922,2,2
+10662,38,9,30/09/2017,TRUE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,40336,2,2
+9405,6,9,20/08/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,41701,1,1
+10250,44,10,13/07/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1769.64,$108.76 ,39427,1,1
+5956,21,10,20/06/2017,TRUE,Approved,Solex,Standard,medium,large,1071.23,$380.74 ,34115,1,1
+4565,5,10,26/08/2017,FALSE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,38258,2,2
+16095,0,10,27/11/2017,FALSE,Approved,,,,,2064.08,,,2,2
+14899,69,10,9/8/2017,FALSE,Approved,Giant Bicycles,Road,medium,medium,792.9,$594.68 ,38859,2,2
+18946,53,10,17/11/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,42172,2.133333333,2
+16846,85,11,2/6/2017,,Approved,WeareA2B,Standard,medium,medium,752.64,$205.36 ,42218,2.266666667,2
+14370,10,11,9/7/2017,FALSE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,41701,2.4,2
+10444,30,11,2/8/2017,FALSE,Approved,Solex,Standard,high,medium,748.17,$448.90 ,33552,2.533333333,3
+18879,4,11,14/11/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,38573,2.666666667,3
+9240,10,11,30/10/2017,TRUE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,41701,2.8,3
+6004,28,11,2/4/2017,FALSE,Approved,Norco Bicycles,Standard,medium,small,1216.14,"$1,082.36 ",33455,2.933333333,3
+12242,91,12,23/07/2017,FALSE,Approved,Solex,Standard,medium,medium,100.35,$75.26 ,36367,3.066666667,3
+6741,72,12,12/2/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,42710,3.2,3
+6705,72,12,4/9/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,42710,3.333333333,3
+14250,34,12,24/10/2017,TRUE,Approved,Norco Bicycles,Road,high,large,774.53,$464.72 ,37698,3.466666667,3
+13818,44,12,21/08/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1769.64,$108.76 ,40672,3.6,4
+19219,28,12,16/09/2017,FALSE,Approved,Norco Bicycles,Standard,medium,small,1216.14,"$1,082.36 ",33455,3.733333333,4
+5985,39,12,21/08/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,1812.75,$582.48 ,40336,3.866666667,4
+11839,9,13,2/8/2017,TRUE,Approved,Norco Bicycles,Standard,medium,small,1216.14,"$1,082.36 ",34527,4,4
+19988,0,13,5/4/2017,TRUE,Approved,Norco Bicycles,Road,medium,medium,544.05,$376.84 ,42105,4.133333333,4
+8905,66,13,16/02/2017,FALSE,Approved,Solex,Standard,medium,medium,1163.89,$589.27 ,35378,4.266666667,4
+17639,0,13,3/12/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,495.72,$297.43 ,41922,4.4,4
+15101,49,13,1/3/2017,TRUE,Approved,Solex,Standard,medium,large,1061.56,$733.58 ,36146,4.533333333,5
+13486,17,13,17/11/2017,FALSE,Approved,WeareA2B,Touring,medium,large,1362.99,$57.74 ,37539,4.666666667,5
+17763,92,13,6/1/2017,FALSE,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,36146,4.8,5
+19381,23,14,27/10/2017,TRUE,Approved,Norco Bicycles,Mountain,low,small,688.63,$612.88 ,34244,4.933333333,5
+6044,56,14,13/11/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,183.86,$137.90 ,35707,5.066666667,5
+16253,68,14,11/5/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,1636.9,$44.71 ,40410,5.2,5
+8486,0,14,16/08/2017,TRUE,Approved,,,,,1084.18,,,5.333333333,5
+11788,33,15,7/6/2017,TRUE,Approved,Giant Bicycles,Standard,medium,small,1311.44,"$1,167.18 ",33888,5.466666667,5
+17963,81,15,25/11/2017,TRUE,Approved,Norco Bicycles,Standard,medium,small,586.45,$521.94 ,33429,5.6,6
+434,67,15,10/3/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,544.05,$376.84 ,38647,5.733333333,6
+17528,2,15,20/01/2017,FALSE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,5.866666667,6
+10707,41,15,20/09/2017,TRUE,Approved,Solex,Road,medium,medium,416.98,$312.74 ,35560,6,6
+7896,26,15,30/07/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1992.93,$762.63 ,34115,6.133333333,6
+5083,94,16,10/5/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,1635.3,$993.66 ,39915,6.266666667,6
+1405,3,16,17/08/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,37220,6.4,6
+13585,68,16,22/09/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,1636.9,$44.71 ,42172,6.533333333,7
+17935,99,16,31/07/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,1227.34,$770.89 ,33364,6.666666667,7
+14760,96,16,12/2/2017,FALSE,Approved,WeareA2B,Road,low,small,1172.78,"$1,043.77 ",40336,6.8,7
+12747,70,17,11/10/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,495.72,$297.43 ,36668,6.933333333,7
+5316,78,17,14/11/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,1765.3,$709.48 ,42218,7.066666667,7
+17135,49,17,30/12/2017,FALSE,Approved,Trek Bicycles,Road,medium,medium,533.51,$400.13 ,35707,7.2,7
+1404,62,17,14/03/2017,FALSE,Approved,Solex,Standard,medium,medium,478.16,$298.72 ,33879,7.333333333,7
+10775,1,17,1/5/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,38573,7.466666667,7
+3506,87,18,15/07/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1179,$707.40 ,35667,7.6,8
+3777,11,18,11/5/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1274.93,$764.96 ,39298,7.733333333,8
+11922,10,18,24/06/2017,TRUE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,41701,7.866666667,8
+17282,16,18,18/08/2017,FALSE,Approved,Norco Bicycles,Standard,high,small,1661.92,"$1,479.11 ",34586,8,8
+7092,97,18,25/03/2017,TRUE,Approved,Solex,Standard,medium,large,202.62,$151.96 ,42458,8.133333333,8
+8622,94,18,16/05/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,1635.3,$993.66 ,41434,8.266666667,8
+11227,40,18,5/7/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,1458.17,$874.90 ,38750,8.4,8
+14850,87,19,25/03/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,1636.9,$44.71 ,40410,8.533333333,9
+4664,7,19,31/01/2017,FALSE,Approved,Giant Bicycles,Standard,medium,small,1311.44,"$1,167.18 ",33888,8.666666667,9
+8866,36,19,19/09/2017,,Approved,Solex,Standard,low,medium,1289.85,$74.51 ,39427,8.8,9
+18030,3,20,11/6/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,37499,8.933333333,9
+11330,94,20,29/11/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,1635.3,$993.66 ,39427,9.066666667,9
+6657,4,20,1/11/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,37698,9.2,9
+14766,48,20,20/11/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1762.96,$950.52 ,42688,9.333333333,9
+14115,25,21,12/2/2017,TRUE,Approved,Giant Bicycles,Road,medium,medium,1538.99,$829.65 ,36334,9.466666667,9
+4778,3,21,22/10/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,41701,9.6,10
+19616,16,21,17/11/2017,FALSE,Approved,Norco Bicycles,Standard,high,small,1661.92,"$1,479.11 ",34165,9.733333333,10
+2932,37,21,17/08/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,36361,9.866666667,10
+8915,72,21,24/12/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,41922,10,10
+3480,32,22,18/09/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,642.7,$211.37 ,37337,10.13333333,10
+3504,38,22,16/07/2017,TRUE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,40618,10.26666667,10
+16626,100,22,10/3/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,1036.59,$206.35 ,33364,10.4,10
+17002,64,22,6/1/2017,TRUE,Cancelled,Trek Bicycles,Standard,medium,large,1469.44,$596.55 ,41047,10.53333333,11
+14956,45,22,24/09/2017,TRUE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,34071,10.66666667,11
+118,20,22,21/03/2017,FALSE,Approved,Trek Bicycles,Standard,medium,small,1775.81,"$1,580.47 ",40303,10.8,11
+8207,53,22,19/09/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,35470,10.93333333,11
+4601,65,22,29/05/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1807.45,$778.69 ,42145,11.06666667,11
+7695,0,23,2/4/2017,TRUE,Approved,,,,,2037.77,,,11.2,11
+5598,85,23,20/12/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1228.07,$400.91 ,42226,11.33333333,11
+7951,19,23,3/8/2017,TRUE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,39298,11.46666667,11
+7429,54,23,6/10/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1807.45,$778.69 ,42710,11.6,12
+17698,98,23,16/05/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,34170,11.73333333,12
+15587,77,23,9/10/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1769.64,$108.76 ,41848,11.86666667,12
+18219,0,23,27/03/2017,TRUE,Approved,Solex,Standard,medium,large,202.62,$151.96 ,42458,12,12
+14099,89,24,12/10/2017,FALSE,Approved,WeareA2B,Touring,medium,large,1362.99,$57.74 ,38482,12.13333333,12
+7610,0,24,11/5/2017,FALSE,Approved,,,,,1193.44,,,12.26666667,12
+15926,2,24,25/01/2017,FALSE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41167,12.4,12
+1783,53,24,13/12/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,35707,12.53333333,13
+19078,40,24,31/10/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,1458.17,$874.90 ,39526,12.66666667,13
+9249,52,24,13/11/2017,TRUE,Approved,OHM Cycles,Road,medium,medium,1280.28,$829.51 ,39915,12.8,13
+19263,76,24,5/10/2017,TRUE,Approved,WeareA2B,Standard,low,medium,642.31,$513.85 ,40553,12.93333333,13
+15874,11,24,13/05/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1274.93,$764.96 ,39880,13.06666667,13
+11765,6,25,8/3/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,38258,13.2,13
+16026,22,25,8/2/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,60.34,$45.26 ,42696,13.33333333,13
+7196,18,25,23/11/2017,FALSE,Approved,Solex,Standard,medium,medium,575.27,$431.45 ,40670,13.46666667,13
+6552,54,25,15/04/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1292.84,$13.44 ,42295,13.6,14
+17826,78,25,25/12/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,1765.3,$709.48 ,35455,13.73333333,14
+5770,41,25,4/9/2017,TRUE,Approved,Solex,Road,medium,medium,416.98,$312.74 ,39526,13.86666667,14
+9193,6,25,17/09/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,37838,14,14
+10224,59,25,10/7/2017,FALSE,Approved,Solex,Standard,medium,large,1061.56,$733.58 ,36146,14.13333333,14
+2354,53,25,4/3/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,42172,14.26666667,14
+15291,28,25,1/4/2017,TRUE,Approved,Norco Bicycles,Standard,medium,small,1216.14,"$1,082.36 ",39031,14.4,14
+19252,67,25,1/12/2017,TRUE,Approved,Norco Bicycles,Road,medium,medium,544.05,$376.84 ,37499,14.53333333,15
+4309,39,25,23/05/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,1812.75,$582.48 ,38991,14.66666667,15
+3749,96,26,15/04/2017,TRUE,Approved,WeareA2B,Road,low,small,1172.78,"$1,043.77 ",38002,14.8,15
+7674,80,26,2/4/2017,TRUE,Approved,OHM Cycles,Touring,low,medium,1073.07,$933.84 ,35667,14.93333333,15
+7949,0,26,8/9/2017,FALSE,Approved,,,,,1697.27,,,15.06666667,15
+5970,15,27,18/06/2017,FALSE,Approved,Norco Bicycles,Standard,low,medium,958.74,$748.90 ,41345,15.2,15
+11751,28,27,9/8/2017,FALSE,Approved,Norco Bicycles,Standard,medium,small,1216.14,"$1,082.36 ",42696,15.33333333,15
+13771,79,27,23/07/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,1555.58,$818.01 ,35455,15.46666667,15
+5053,45,27,25/07/2017,FALSE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,38991,15.6,16
+849,57,27,18/07/2017,TRUE,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,42145,15.73333333,16
+1275,97,27,8/4/2017,FALSE,Approved,Solex,Standard,medium,large,202.62,$151.96 ,42458,15.86666667,16
+5662,92,27,28/05/2017,TRUE,Approved,WeareA2B,Standard,medium,small,1415.01,"$1,259.36 ",36833,16,16
+11105,26,28,20/04/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1992.93,$762.63 ,33888,16.13333333,16
+7048,63,28,8/10/2017,TRUE,Approved,Solex,Standard,medium,medium,1483.2,$99.59 ,33879,16.26666667,16
+13007,82,28,16/07/2017,FALSE,Approved,Norco Bicycles,Standard,high,medium,1148.64,$689.18 ,38339,16.4,16
+8422,19,28,21/07/2017,TRUE,Approved,OHM Cycles,Road,high,large,12.01,$7.21 ,34244,16.53333333,17
+8139,70,28,31/01/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,495.72,$297.43 ,34996,16.66666667,17
+7775,72,28,23/01/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,41922,16.8,17
+19016,80,29,10/4/2017,TRUE,Approved,OHM Cycles,Touring,low,medium,1073.07,$933.84 ,35455,16.93333333,17
+10676,53,29,4/1/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,35470,17.06666667,17
+1898,80,29,28/03/2017,FALSE,Approved,OHM Cycles,Touring,low,medium,1073.07,$933.84 ,35455,17.2,17
+19532,46,29,25/01/2017,FALSE,Approved,Solex,Standard,low,medium,1289.85,$74.51 ,39427,17.33333333,17
+7093,84,29,22/08/2017,FALSE,Approved,Trek Bicycles,Road,medium,medium,290.62,$215.14 ,38339,17.46666667,17
+7691,65,29,12/10/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1807.45,$778.69 ,42145,17.6,18
+661,87,29,16/09/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1179,$707.40 ,35667,17.73333333,18
+16431,44,29,30/08/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1769.64,$108.76 ,40672,17.86666667,18
+14982,38,29,8/12/2017,TRUE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,40618,18,18
+3214,41,30,2/4/2017,TRUE,Approved,Solex,Road,medium,medium,416.98,$312.74 ,41064,18.13333333,18
+1739,3,30,16/06/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,40784,18.26666667,18
+8164,74,30,19/12/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1228.07,$400.91 ,33429,18.4,18
+420,97,31,25/05/2017,TRUE,Approved,OHM Cycles,Road,medium,medium,742.54,$667.40 ,41701,18.53333333,19
+14858,0,31,2/10/2017,TRUE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,38573,18.66666667,19
+4321,99,31,21/03/2017,FALSE,Approved,Trek Bicycles,Road,low,small,1720.7,"$1,531.42 ",41064,18.8,19
+11652,22,31,15/07/2017,TRUE,Approved,Solex,Standard,medium,medium,575.27,$431.45 ,42404,18.93333333,19
+15069,43,32,14/01/2017,FALSE,Approved,Solex,Standard,medium,medium,1151.96,$649.49 ,36498,19.06666667,19
+15346,94,32,1/6/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,1635.3,$993.66 ,41434,19.2,19
+8735,25,32,14/08/2017,FALSE,Approved,Giant Bicycles,Road,medium,medium,1538.99,$829.65 ,42404,19.33333333,19
+4734,21,32,12/4/2017,TRUE,Approved,Solex,Standard,medium,large,1071.23,$380.74 ,35160,19.46666667,19
+15922,8,32,5/5/2017,FALSE,Approved,Solex,Road,medium,small,1703.52,"$1,516.13 ",40649,19.6,20
+10210,97,32,9/5/2017,FALSE,Approved,Solex,Standard,medium,large,202.62,$151.96 ,42458,19.73333333,20
+99,95,32,26/03/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,569.56,$528.43 ,37874,19.86666667,20
+6156,99,33,20/03/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,1227.34,$770.89 ,34556,20,20
+6231,7,33,12/9/2017,FALSE,Approved,Trek Bicycles,Road,low,medium,980.37,$234.43 ,42560,20.13333333,20
+7024,18,33,29/07/2017,TRUE,Cancelled,Solex,Standard,medium,medium,575.27,$431.45 ,34165,20.26666667,20
+5415,44,33,22/11/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1769.64,$108.76 ,37220,20.4,20
+7443,48,33,17/09/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1762.96,$950.52 ,39915,20.53333333,21
+11789,20,33,28/09/2017,FALSE,Approved,Trek Bicycles,Standard,medium,small,1775.81,"$1,580.47 ",34165,20.66666667,21
+3731,54,33,30/05/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1292.84,$13.44 ,37823,20.8,21
+9044,12,34,13/02/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1231.15,$161.60 ,38216,20.93333333,21
+1107,15,34,22/08/2017,FALSE,Approved,Norco Bicycles,Standard,low,medium,958.74,$748.90 ,38693,21.06666667,21
+16935,0,34,14/02/2017,FALSE,Approved,,,,,1034.17,,,21.2,21
+2638,83,34,7/4/2017,FALSE,Approved,Solex,Touring,medium,large,2083.94,$675.03 ,41533,21.33333333,21
+12083,13,34,23/07/2017,FALSE,Approved,Solex,Standard,medium,medium,1163.89,$589.27 ,42560,21.46666667,21
+19291,65,34,19/09/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1807.45,$778.69 ,42145,21.6,22
+17808,96,34,10/4/2017,TRUE,Approved,WeareA2B,Road,low,small,1172.78,"$1,043.77 ",37539,21.73333333,22
+9792,60,34,25/06/2017,TRUE,Approved,Giant Bicycles,Standard,high,small,1977.36,"$1,759.85 ",40779,21.86666667,22
+1039,8,34,1/7/2017,TRUE,Approved,Solex,Road,medium,small,1703.52,"$1,516.13 ",40649,22,22
+15032,15,35,28/03/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1292.84,$13.44 ,35667,22.13333333,22
+3417,70,35,30/03/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,1036.59,$206.35 ,40553,22.26666667,22
+17891,27,35,29/09/2017,FALSE,Approved,Trek Bicycles,Standard,low,medium,1057.51,$154.40 ,35052,22.4,22
+5637,98,35,23/06/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,42710,22.53333333,23
+8348,47,36,20/07/2017,FALSE,Approved,Trek Bicycles,Road,low,small,1720.7,"$1,531.42 ",38991,22.66666667,23
+1418,22,36,8/4/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,60.34,$45.26 ,34165,22.8,23
+14725,38,37,23/12/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,41167,22.93333333,23
+3748,14,37,9/10/2017,FALSE,Approved,Solex,Standard,high,large,1842.92,"$1,105.75 ",34996,23.06666667,23
+6664,86,37,1/5/2017,FALSE,Approved,Norco Bicycles,Road,high,large,774.53,$464.72 ,37698,23.2,23
+16239,69,37,9/11/2017,TRUE,Approved,Norco Bicycles,Road,medium,large,1240.31,$795.10 ,40553,23.33333333,23
+13475,36,37,5/3/2017,TRUE,Approved,Solex,Standard,low,medium,1289.85,$74.51 ,39427,23.46666667,23
+10824,0,37,7/5/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,60.34,$45.26 ,34165,23.6,24
+9874,99,37,12/9/2017,FALSE,Approved,Trek Bicycles,Road,low,small,1720.7,"$1,531.42 ",38991,23.73333333,24
+231,46,37,12/8/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,36361,23.86666667,24
+5998,0,37,5/7/2017,TRUE,Approved,Solex,Standard,medium,medium,478.16,$298.72 ,34143,24,24
+9453,60,38,22/08/2017,FALSE,Approved,Giant Bicycles,Standard,high,small,1977.36,"$1,759.85 ",40779,24.13333333,24
+14512,2,38,23/01/2017,TRUE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,24.26666667,24
+7384,46,38,10/11/2017,FALSE,Approved,Solex,Standard,low,medium,1289.85,$74.51 ,39427,24.4,24
+9816,13,38,13/08/2017,FALSE,Approved,Solex,Standard,medium,medium,1163.89,$589.27 ,42560,24.53333333,25
+5119,40,39,7/2/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,1458.17,$874.90 ,38750,24.66666667,25
+3561,30,39,23/09/2017,FALSE,Approved,Solex,Standard,high,medium,748.17,$448.90 ,33552,24.8,25
+16084,70,39,16/08/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,495.72,$297.43 ,42105,24.93333333,25
+12174,34,39,29/05/2017,FALSE,Approved,Norco Bicycles,Road,high,large,774.53,$464.72 ,37698,25.06666667,25
+17701,21,39,6/10/2017,TRUE,Approved,Solex,Standard,medium,large,1071.23,$380.74 ,35160,25.2,25
+2557,69,39,26/11/2017,FALSE,Approved,Giant Bicycles,Road,medium,medium,792.9,$594.68 ,33879,25.33333333,25
+4659,97,39,19/01/2017,FALSE,Approved,Solex,Standard,medium,large,202.62,$151.96 ,42458,25.46666667,25
+2850,37,39,28/08/2017,FALSE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,36361,25.6,26
+12103,49,39,9/2/2017,FALSE,Approved,Trek Bicycles,Road,medium,medium,533.51,$400.13 ,41064,25.73333333,26
+6593,27,39,16/09/2017,TRUE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,36334,25.86666667,26
+18076,38,39,24/11/2017,FALSE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,40618,26,26
+10562,46,39,4/8/2017,FALSE,Approved,Solex,Standard,low,medium,1289.85,$74.51 ,39427,26.13333333,26
+327,1,40,9/5/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,42688,26.26666667,26
+10973,22,40,24/01/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,60.34,$45.26 ,34165,26.4,26
+4213,21,40,26/07/2017,TRUE,Approved,Solex,Standard,medium,large,1071.23,$380.74 ,35160,26.53333333,27
+10129,35,40,21/04/2017,FALSE,Approved,Trek Bicycles,Standard,low,medium,1057.51,$154.40 ,34527,26.66666667,27
+15165,54,40,7/11/2017,,Approved,WeareA2B,Standard,medium,medium,1292.84,$13.44 ,39915,26.8,27
+836,46,40,16/12/2017,FALSE,Approved,Solex,Standard,low,medium,1289.85,$74.51 ,39427,26.93333333,27
+16604,97,41,29/11/2017,TRUE,Approved,Solex,Standard,medium,large,202.62,$151.96 ,42458,27.06666667,27
+14571,57,41,9/7/2017,TRUE,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,33259,27.2,27
+5910,25,41,22/02/2017,FALSE,Approved,Giant Bicycles,Road,medium,medium,1538.99,$829.65 ,42404,27.33333333,27
+16571,65,41,1/12/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1807.45,$778.69 ,42145,27.46666667,27
+18512,91,41,14/11/2017,TRUE,Approved,Solex,Standard,medium,medium,100.35,$75.26 ,36367,27.6,28
+3342,67,41,3/8/2017,FALSE,Cancelled,Norco Bicycles,Road,medium,medium,544.05,$376.84 ,38647,27.73333333,28
+1677,82,41,15/04/2017,TRUE,Approved,Norco Bicycles,Standard,high,medium,1148.64,$689.18 ,42226,27.86666667,28
+15262,1,41,24/01/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,42688,28,28
+9750,62,41,18/04/2017,FALSE,Approved,Solex,Standard,medium,medium,478.16,$298.72 ,34143,28.13333333,28
+13493,5,42,10/9/2017,FALSE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,40784,28.26666667,28
+4762,81,42,1/2/2017,TRUE,Approved,Norco Bicycles,Standard,medium,small,586.45,$521.94 ,33429,28.4,28
+9522,98,42,17/08/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,358.39,$215.03 ,38002,28.53333333,29
+10016,41,42,3/6/2017,FALSE,Approved,Solex,Road,medium,medium,416.98,$312.74 ,35560,28.66666667,29
+16718,19,43,18/01/2017,FALSE,Approved,OHM Cycles,Road,high,large,12.01,$7.21 ,39880,28.8,29
+17478,72,43,10/10/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,42710,28.93333333,29
+963,52,43,30/10/2017,TRUE,Approved,OHM Cycles,Road,medium,medium,1280.28,$829.51 ,37220,29.06666667,29
+1672,72,43,9/7/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,42710,29.2,29
+10486,41,43,14/08/2017,FALSE,Approved,Solex,Road,medium,medium,416.98,$312.74 ,35560,29.33333333,29
+17162,56,43,7/2/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,183.86,$137.90 ,35707,29.46666667,29
+7889,11,43,13/07/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1274.93,$764.96 ,39298,29.6,30
+12318,57,43,2/8/2017,FALSE,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,33259,29.73333333,30
+896,53,43,4/1/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,35470,29.86666667,30
+3788,36,44,24/11/2017,TRUE,Approved,Solex,Standard,low,medium,945.04,$507.58 ,40618,30,30
+2120,98,44,24/05/2017,FALSE,Approved,Trek Bicycles,Standard,high,medium,358.39,$215.03 ,38002,30.13333333,30
+11825,3,44,17/04/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,41701,30.26666667,30
+13255,81,44,25/11/2017,FALSE,Approved,Norco Bicycles,Standard,medium,small,586.45,$521.94 ,41533,30.4,30
+6265,45,44,29/09/2017,FALSE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,39427,30.53333333,31
+11249,4,44,4/9/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,38573,30.66666667,31
+6259,73,44,28/04/2017,TRUE,Approved,Solex,Standard,medium,medium,1945.43,$333.18 ,38193,30.8,31
+9567,2,45,19/08/2017,FALSE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,30.93333333,31
+7322,20,45,9/7/2017,TRUE,Approved,Trek Bicycles,Standard,medium,small,1775.81,"$1,580.47 ",40303,31.06666667,31
+19710,93,45,17/11/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,36833,31.2,31
+19545,94,46,3/10/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,1635.3,$993.66 ,41434,31.33333333,31
+655,8,46,12/5/2017,FALSE,Approved,Solex,Road,medium,small,1703.52,"$1,516.13 ",38693,31.46666667,31
+2601,91,46,7/11/2017,TRUE,Approved,Solex,Standard,medium,medium,100.35,$75.26 ,36833,31.6,32
+11710,53,46,15/03/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,39915,31.73333333,32
+18667,23,46,25/07/2017,FALSE,Approved,Norco Bicycles,Mountain,low,small,688.63,$612.88 ,42696,31.86666667,32
+10277,27,47,10/3/2017,FALSE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,36334,32,32
+12953,100,47,22/08/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,1036.59,$206.35 ,33364,32.13333333,32
+4109,43,47,15/07/2017,TRUE,Approved,Solex,Standard,medium,medium,1151.96,$649.49 ,36498,32.26666667,32
+14063,95,47,15/03/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,569.56,$528.43 ,37874,32.4,32
+3141,10,47,26/07/2017,TRUE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,41701,32.53333333,33
+5080,55,47,17/01/2017,FALSE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,37823,32.66666667,33
+1875,1,47,25/11/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,42688,32.8,33
+8193,59,48,20/05/2017,FALSE,Approved,Solex,Standard,medium,large,1061.56,$733.58 ,41047,32.93333333,33
+10599,37,48,9/10/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,35560,33.06666667,33
+15721,53,48,27/04/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,35707,33.2,33
+6433,96,48,1/5/2017,TRUE,Approved,WeareA2B,Road,low,small,1172.78,"$1,043.77 ",37539,33.33333333,33
+17666,3,48,6/2/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,38258,33.46666667,33
+7028,50,48,7/3/2017,TRUE,Approved,WeareA2B,Standard,medium,small,175.89,$131.92 ,41009,33.6,34
+11103,17,48,3/8/2017,TRUE,Approved,Solex,Standard,high,medium,1024.66,$614.80 ,34244,33.73333333,34
+17551,25,48,23/04/2017,TRUE,Approved,Giant Bicycles,Road,medium,medium,1538.99,$829.65 ,42404,33.86666667,34
+14893,73,49,19/07/2017,,Approved,Solex,Standard,medium,medium,1945.43,$333.18 ,37499,34,34
+3622,48,49,8/8/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1762.96,$950.52 ,41848,34.13333333,34
+11714,47,49,24/11/2017,FALSE,Approved,Trek Bicycles,Road,low,small,1720.7,"$1,531.42 ",38991,34.26666667,34
+9809,72,49,12/3/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,42710,34.4,34
+7212,37,49,31/01/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,36361,34.53333333,35
+121,25,50,4/12/2017,FALSE,Approved,Giant Bicycles,Road,medium,medium,1538.99,$829.65 ,33888,34.66666667,35
+12419,69,50,3/4/2017,TRUE,Approved,Giant Bicycles,Road,medium,medium,792.9,$594.68 ,34996,34.8,35
+3845,29,50,22/07/2017,TRUE,Approved,Norco Bicycles,Road,medium,medium,543.39,$407.54 ,39031,34.93333333,35
+4900,66,50,24/07/2017,FALSE,Approved,Giant Bicycles,Road,low,small,590.26,$525.33 ,37499,35.06666667,35
+13543,83,50,4/6/2017,TRUE,Approved,Solex,Touring,medium,large,2083.94,$675.03 ,38206,35.2,35
+17709,50,50,17/01/2017,FALSE,Approved,WeareA2B,Standard,medium,small,175.89,$131.92 ,41009,35.33333333,35
+1014,68,50,27/04/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,1636.9,$44.71 ,36668,35.46666667,35
+18847,57,50,20/09/2017,,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,34170,35.6,36
+4239,12,51,1/1/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1231.15,$161.60 ,38216,35.73333333,36
+8399,71,51,5/11/2017,FALSE,Approved,Solex,Standard,high,large,1842.92,"$1,105.75 ",34996,35.86666667,36
+7602,32,51,25/05/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,642.7,$211.37 ,37337,36,36
+4816,75,51,17/09/2017,TRUE,Approved,Giant Bicycles,Touring,medium,large,1873.97,$863.95 ,38859,36.13333333,36
+11873,4,51,3/11/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,38573,36.26666667,36
+3165,77,51,22/08/2017,FALSE,Approved,Norco Bicycles,Road,medium,large,1240.31,$795.10 ,40553,36.4,36
+4445,13,51,8/1/2017,TRUE,Approved,Solex,Standard,medium,medium,1163.89,$589.27 ,42560,36.53333333,37
+5002,29,51,12/2/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,543.39,$407.54 ,42696,36.66666667,37
+19862,24,52,11/1/2017,FALSE,Approved,Solex,Road,medium,large,1777.8,$820.78 ,34115,36.8,37
+2447,65,52,3/12/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1807.45,$778.69 ,40487,36.93333333,37
+8946,74,52,5/9/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1228.07,$400.91 ,42226,37.06666667,37
+14584,37,52,12/11/2017,FALSE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,40336,37.2,37
+14349,64,52,26/12/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,1469.44,$596.55 ,34996,37.33333333,37
+3409,0,52,11/3/2017,TRUE,Approved,,,,,326.86,,,37.46666667,37
+2872,8,52,22/04/2017,FALSE,Approved,Solex,Road,medium,small,1703.52,"$1,516.13 ",40649,37.6,38
+17509,51,53,20/02/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,2005.66,"$1,203.40 ",41009,37.73333333,38
+19787,4,53,1/3/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,38573,37.86666667,38
+6810,72,53,23/12/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,42710,38,38
+10063,58,53,11/8/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,912.52,$141.40 ,42295,38.13333333,38
+8283,93,53,7/1/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,36833,38.26666667,38
+1329,73,54,7/10/2017,TRUE,Approved,Solex,Standard,medium,medium,1945.43,$333.18 ,38193,38.4,38
+12121,47,54,12/10/2017,TRUE,Approved,Trek Bicycles,Road,low,small,1720.7,"$1,531.42 ",37668,38.53333333,39
+12769,15,54,1/5/2017,TRUE,Approved,Norco Bicycles,Standard,low,medium,958.74,$748.90 ,40303,38.66666667,39
+16311,28,54,13/03/2017,FALSE,Approved,Norco Bicycles,Standard,medium,small,1216.14,"$1,082.36 ",33552,38.8,39
+8528,68,54,24/08/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,1636.9,$44.71 ,42710,38.93333333,39
+11374,98,54,25/02/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,358.39,$215.03 ,34556,39.06666667,39
+19706,60,54,24/10/2017,FALSE,Approved,Giant Bicycles,Standard,high,small,1977.36,"$1,759.85 ",42172,39.2,39
+16287,72,55,10/1/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,37499,39.33333333,39
+6624,50,55,14/08/2017,TRUE,Approved,WeareA2B,Standard,medium,small,175.89,$131.92 ,37220,39.46666667,39
+5249,35,55,4/2/2017,TRUE,Approved,Trek Bicycles,Standard,low,medium,1057.51,$154.40 ,38750,39.6,40
+6092,27,55,7/6/2017,FALSE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,39031,39.73333333,40
+11540,33,55,30/03/2017,FALSE,Approved,Giant Bicycles,Standard,medium,small,1311.44,"$1,167.18 ",37698,39.86666667,40
+16659,45,55,8/1/2017,TRUE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,39427,40,40
+4521,93,55,22/09/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,36833,40.13333333,40
+8199,71,55,14/11/2017,FALSE,Approved,Solex,Standard,high,large,1842.92,"$1,105.75 ",38193,40.26666667,40
+14789,80,56,28/12/2017,TRUE,Approved,OHM Cycles,Touring,low,medium,1073.07,$933.84 ,36145,40.4,40
+823,51,56,7/5/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,2005.66,"$1,203.40 ",37220,40.53333333,41
+2700,80,56,8/3/2017,TRUE,Approved,OHM Cycles,Touring,low,medium,1073.07,$933.84 ,38206,40.66666667,41
+13230,61,56,23/02/2017,FALSE,Approved,OHM Cycles,Standard,low,medium,71.16,$56.93 ,36146,40.8,41
+9207,86,56,14/03/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,235.63,$125.07 ,38482,40.93333333,41
+12128,19,56,11/9/2017,TRUE,Approved,OHM Cycles,Road,high,large,12.01,$7.21 ,40670,41.06666667,41
+7134,66,56,18/02/2017,FALSE,Approved,Giant Bicycles,Road,low,small,590.26,$525.33 ,33879,41.2,41
+11296,21,57,20/01/2017,FALSE,Approved,Solex,Standard,medium,large,1071.23,$380.74 ,42404,41.33333333,41
+18780,11,57,29/10/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1274.93,$764.96 ,38693,41.46666667,41
+5924,66,57,25/11/2017,TRUE,Approved,Giant Bicycles,Road,low,small,590.26,$525.33 ,37499,41.6,42
+2539,73,57,22/11/2017,FALSE,Approved,Solex,Standard,medium,medium,1945.43,$333.18 ,33429,41.73333333,42
+7797,26,57,10/11/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1992.93,$762.63 ,33888,41.86666667,42
+765,75,57,13/05/2017,FALSE,Approved,Giant Bicycles,Touring,medium,large,1873.97,$863.95 ,38193,42,42
+19055,12,58,21/11/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1231.15,$161.60 ,41345,42.13333333,42
+16885,69,58,7/5/2017,FALSE,Approved,Giant Bicycles,Road,medium,medium,792.9,$594.68 ,42105,42.26666667,42
+9481,51,58,31/07/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,2005.66,"$1,203.40 ",37823,42.4,42
+1656,49,58,23/06/2017,TRUE,Approved,Trek Bicycles,Road,medium,medium,533.51,$400.13 ,41064,42.53333333,43
+2587,30,58,13/11/2017,FALSE,Approved,Solex,Standard,high,medium,748.17,$448.90 ,36361,42.66666667,43
+8106,90,58,10/12/2017,FALSE,Approved,Norco Bicycles,Standard,low,medium,363.01,$290.41 ,36833,42.8,43
+314,6,58,20/08/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,39298,42.93333333,43
+5573,93,58,29/06/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,33364,43.06666667,43
+17695,17,59,8/12/2017,FALSE,Approved,WeareA2B,Touring,medium,large,1362.99,$57.74 ,34079,43.2,43
+3052,17,59,10/4/2017,TRUE,Approved,WeareA2B,Touring,medium,large,1362.99,$57.74 ,34079,43.33333333,43
+19676,0,59,27/10/2017,FALSE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,43.46666667,43
+3209,90,60,27/05/2017,FALSE,Approved,Norco Bicycles,Standard,low,medium,363.01,$290.41 ,38482,43.6,44
+16943,13,60,13/06/2017,FALSE,Approved,Solex,Standard,medium,medium,1163.89,$589.27 ,42560,43.73333333,44
+6747,59,61,5/9/2017,TRUE,Approved,WeareA2B,Standard,medium,small,1415.01,"$1,259.36 ",37626,43.86666667,44
+17425,0,61,1/11/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,37659,44,44
+3762,21,61,13/11/2017,FALSE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,41701,44.13333333,44
+12847,93,61,19/09/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,1458.17,$874.90 ,38750,44.26666667,44
+19872,0,61,17/03/2017,TRUE,Approved,,,,,867.92,,,44.4,44
+4389,92,61,5/6/2017,FALSE,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,33259,44.53333333,45
+18201,67,61,29/08/2017,FALSE,Approved,Solex,Standard,medium,large,1071.23,$380.74 ,35160,44.66666667,45
+11258,31,62,30/11/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,230.91,$173.18 ,40336,44.8,45
+6633,61,62,9/1/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,71.16,$56.93 ,33879,44.93333333,45
+363,73,62,14/08/2017,TRUE,Approved,Solex,Standard,medium,medium,1945.43,$333.18 ,37499,45.06666667,45
+1741,57,62,1/5/2017,FALSE,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,40779,45.2,45
+14677,61,62,30/08/2017,FALSE,Approved,OHM Cycles,Standard,low,medium,71.16,$56.93 ,34143,45.33333333,45
+10789,68,62,25/12/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,1636.9,$44.71 ,38859,45.46666667,45
+10655,38,63,23/10/2017,FALSE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,39427,45.6,46
+2811,89,63,21/09/2017,FALSE,Approved,WeareA2B,Touring,medium,large,1362.99,$57.74 ,38482,45.73333333,46
+18832,28,63,20/03/2017,TRUE,Approved,Norco Bicycles,Standard,medium,small,1216.14,"$1,082.36 ",42696,45.86666667,46
+10162,2,64,5/2/2017,TRUE,Approved,Giant Bicycles,Road,low,small,590.26,$525.33 ,40487,46,46
+1563,0,64,20/04/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,37659,46.13333333,46
+13497,28,64,9/1/2017,FALSE,Approved,Solex,Road,medium,small,1703.52,"$1,516.13 ",40649,46.26666667,46
+11587,100,64,21/01/2017,TRUE,Approved,Trek Bicycles,Standard,medium,small,1386.84,"$1,234.29 ",37838,46.4,46
+18293,0,64,27/12/2017,TRUE,Approved,Solex,Standard,medium,large,202.62,$151.96 ,42458,46.53333333,47
+4528,3,65,18/03/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,37823,46.66666667,47
+2051,38,65,8/4/2017,FALSE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,35707,46.8,47
+9258,81,65,16/08/2017,FALSE,Approved,Norco Bicycles,Standard,medium,small,586.45,$521.94 ,38002,46.93333333,47
+14906,100,65,22/06/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,1036.59,$206.35 ,38193,47.06666667,47
+6378,94,65,20/02/2017,,Approved,Giant Bicycles,Standard,medium,large,1635.3,$993.66 ,41848,47.2,47
+6226,4,65,6/8/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,34527,47.33333333,47
+7374,90,66,28/02/2017,TRUE,Approved,Solex,Standard,low,medium,945.04,$507.58 ,35052,47.46666667,47
+12798,35,66,19/02/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,42688,47.6,48
+11926,36,66,26/06/2017,FALSE,Cancelled,Solex,Standard,low,medium,1289.85,$74.51 ,39427,47.73333333,48
+7706,46,66,17/11/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,36361,47.86666667,48
+6202,27,66,17/02/2017,FALSE,Approved,Trek Bicycles,Standard,low,medium,1057.51,$154.40 ,34527,48,48
+6123,47,67,3/5/2017,TRUE,Approved,Trek Bicycles,Road,low,small,1720.7,"$1,531.42 ",38991,48.13333333,48
+14037,38,67,13/05/2017,TRUE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,40618,48.26666667,48
+16268,8,67,5/9/2017,TRUE,Approved,Solex,Road,medium,small,1703.52,"$1,516.13 ",40649,48.4,48
+2488,31,67,18/03/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,230.91,$173.18 ,39031,48.53333333,49
+16637,2,67,4/8/2017,TRUE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,48.66666667,49
+4503,36,68,16/01/2017,TRUE,Approved,Solex,Standard,low,medium,945.04,$507.58 ,40784,48.8,49
+1769,3,68,7/10/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,40670,48.93333333,49
+6599,3,68,11/2/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,40779,49.06666667,49
+13832,14,69,28/03/2017,TRUE,Approved,Trek Bicycles,Standard,medium,small,1386.84,"$1,234.29 ",37838,49.2,49
+13881,57,69,2/2/2017,TRUE,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,33259,49.33333333,49
+10663,6,69,10/12/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,37659,49.46666667,49
+11893,55,69,22/04/2017,FALSE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,37823,49.6,50
+18209,12,69,26/03/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1231.15,$161.60 ,38216,49.73333333,50
+935,78,69,5/6/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,1765.3,$709.48 ,38193,49.86666667,50
+11207,93,70,26/12/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,36833,50,50
+10118,99,70,2/2/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,1227.34,$770.89 ,34556,50.13333333,50
+11991,29,70,19/07/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,543.39,$407.54 ,42696,50.26666667,50
+8065,55,70,13/07/2017,TRUE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,37823,50.4,50
+12449,61,70,10/12/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,71.16,$56.93 ,42172,50.53333333,51
+862,92,71,21/08/2017,FALSE,Approved,WeareA2B,Standard,medium,small,1415.01,"$1,259.36 ",37539,50.66666667,51
+6556,53,72,8/12/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,39915,50.8,51
+11951,36,72,10/11/2017,TRUE,Approved,Solex,Standard,low,medium,945.04,$507.58 ,40618,50.93333333,51
+12344,0,72,11/7/2017,FALSE,Approved,,,,,311.57,,,51.06666667,51
+1202,70,72,10/8/2017,FALSE,Approved,Trek Bicycles,Standard,high,medium,495.72,$297.43 ,36668,51.2,51
+14096,39,72,10/5/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,1812.75,$582.48 ,40336,51.33333333,51
+15258,62,73,29/05/2017,FALSE,Approved,Solex,Standard,medium,medium,478.16,$298.72 ,42105,51.46666667,51
+12358,25,73,31/01/2017,FALSE,Approved,Giant Bicycles,Road,medium,medium,1538.99,$829.65 ,33888,51.6,52
+2316,1,73,9/1/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,33549,51.73333333,52
+470,18,73,30/04/2017,FALSE,Approved,Solex,Standard,medium,medium,575.27,$431.45 ,34165,51.86666667,52
+3029,2,73,15/07/2017,FALSE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,38573,52,52
+5928,88,73,5/4/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,1198.46,$381.10 ,36145,52.13333333,52
+12726,7,74,2/12/2017,FALSE,Approved,Trek Bicycles,Road,low,medium,980.37,$234.43 ,41701,52.26666667,52
+16590,92,74,22/04/2017,FALSE,Approved,WeareA2B,Standard,medium,small,1415.01,"$1,259.36 ",34556,52.4,52
+2963,66,74,16/10/2017,TRUE,Approved,Giant Bicycles,Road,low,small,590.26,$525.33 ,40410,52.53333333,53
+16958,35,75,16/06/2017,FALSE,Approved,Trek Bicycles,Standard,low,medium,1057.51,$154.40 ,34527,52.66666667,53
+16770,89,75,14/08/2017,TRUE,Approved,WeareA2B,Touring,medium,large,1362.99,$57.74 ,34079,52.8,53
+2484,35,75,22/08/2017,FALSE,Approved,Trek Bicycles,Standard,low,medium,1057.51,$154.40 ,34527,52.93333333,53
+18386,23,75,31/10/2017,TRUE,Approved,Norco Bicycles,Mountain,low,small,688.63,$612.88 ,34244,53.06666667,53
+14114,99,75,21/09/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,1227.34,$770.89 ,34556,53.2,53
+3660,85,75,21/08/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,752.64,$205.36 ,42218,53.33333333,53
+5979,58,75,26/05/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,912.52,$141.40 ,42295,53.46666667,53
+67,2,75,3/7/2017,TRUE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,53.6,54
+8779,58,76,13/11/2017,TRUE,Approved,OHM Cycles,Road,medium,medium,1280.28,$829.51 ,42295,53.73333333,54
+18065,1,76,17/12/2017,FALSE,Approved,Giant Bicycles,Touring,medium,large,1873.97,$863.95 ,35455,53.86666667,54
+8151,53,76,19/05/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1274.93,$764.96 ,39298,54,54
+12392,53,76,21/03/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1274.93,$764.96 ,39880,54.13333333,54
+14888,0,76,25/03/2017,FALSE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,37698,54.26666667,54
+18265,0,76,8/8/2017,FALSE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,54.4,54
+28,19,76,23/12/2017,FALSE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,42560,54.53333333,55
+11522,22,76,29/12/2017,TRUE,Approved,Solex,Standard,medium,medium,575.27,$431.45 ,35160,54.66666667,55
+7440,23,77,20/09/2017,FALSE,Approved,Norco Bicycles,Mountain,low,small,688.63,$612.88 ,34244,54.8,55
+15994,63,77,12/5/2017,TRUE,Approved,Solex,Standard,medium,medium,1483.2,$99.59 ,36146,54.93333333,55
+9422,69,77,2/2/2017,TRUE,Approved,Giant Bicycles,Road,medium,medium,792.9,$594.68 ,33879,55.06666667,55
+4938,95,78,1/6/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,569.56,$528.43 ,37874,55.2,55
+7308,95,78,2/6/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,569.56,$528.43 ,37874,55.33333333,55
+866,87,79,13/11/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1179,$707.40 ,35667,55.46666667,55
+6822,77,79,22/06/2017,TRUE,Approved,Norco Bicycles,Road,medium,large,1240.31,$795.10 ,40553,55.6,56
+8442,32,79,1/3/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,642.7,$211.37 ,37337,55.73333333,56
+1193,71,79,17/11/2017,,Approved,Solex,Standard,high,large,1842.92,"$1,105.75 ",34996,55.86666667,56
+16703,45,79,13/03/2017,FALSE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,34071,56,56
+17976,92,79,23/02/2017,FALSE,Approved,WeareA2B,Standard,medium,small,1415.01,"$1,259.36 ",37626,56.13333333,56
+13453,71,80,31/01/2017,TRUE,Approved,Solex,Standard,high,large,1842.92,"$1,105.75 ",34996,56.26666667,56
+11009,55,80,13/05/2017,TRUE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,37823,56.4,56
+6621,37,80,5/1/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,36361,56.53333333,57
+11145,19,80,6/4/2017,TRUE,Approved,OHM Cycles,Road,high,large,12.01,$7.21 ,39880,56.66666667,57
+8703,42,80,1/7/2017,TRUE,Approved,OHM Cycles,Road,medium,small,1810,"$1,610.90 ",39526,56.8,57
+10826,79,80,14/06/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,1555.58,$818.01 ,37873,56.93333333,57
+5003,23,80,3/6/2017,TRUE,Approved,Norco Bicycles,Mountain,low,small,688.63,$612.88 ,34244,57.06666667,57
+19855,93,80,26/05/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,36833,57.2,57
+7427,27,80,20/03/2017,TRUE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,36334,57.33333333,57
+1949,1,80,2/12/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,42688,57.46666667,57
+4892,0,81,26/12/2017,FALSE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,36334,57.6,58
+15983,67,81,8/3/2017,FALSE,Approved,Solex,Standard,medium,large,1071.23,$380.74 ,35160,57.73333333,58
+12748,46,81,4/9/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,36361,57.86666667,58
+16896,27,81,19/10/2017,TRUE,Approved,Trek Bicycles,Standard,low,medium,1057.51,$154.40 ,34527,58,58
+5214,0,82,30/03/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,60.34,$45.26 ,34165,58.13333333,58
+16665,89,82,21/05/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,1812.75,$582.48 ,40336,58.26666667,58
+1346,7,82,20/02/2017,TRUE,Approved,Giant Bicycles,Standard,medium,small,1311.44,"$1,167.18 ",33888,58.4,58
+13623,21,82,8/10/2017,TRUE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,41701,58.53333333,59
+965,50,82,13/10/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,642.7,$211.37 ,37337,58.66666667,59
+17299,15,83,6/5/2017,TRUE,Approved,Norco Bicycles,Standard,low,medium,958.74,$748.90 ,35160,58.8,59
+5750,87,83,26/07/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1179,$707.40 ,37626,58.93333333,59
+16608,6,83,12/3/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,38258,59.06666667,59
+18734,29,83,21/01/2017,TRUE,Approved,Norco Bicycles,Road,medium,medium,543.39,$407.54 ,33552,59.2,59
+15358,18,83,18/02/2017,FALSE,Approved,Solex,Standard,medium,medium,575.27,$431.45 ,39880,59.33333333,59
+5012,7,83,11/10/2017,FALSE,Approved,Trek Bicycles,Road,low,medium,980.37,$234.43 ,38258,59.46666667,59
+6746,4,84,16/05/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,41701,59.6,60
+13067,45,84,21/01/2017,FALSE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,35470,59.73333333,60
+4314,51,84,8/5/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,2005.66,"$1,203.40 ",39915,59.86666667,60
+10372,15,84,19/07/2017,FALSE,Approved,Norco Bicycles,Standard,low,medium,958.74,$748.90 ,38693,60,60
+8867,61,84,2/12/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,71.16,$56.93 ,36146,60.13333333,60
+6270,45,84,4/4/2017,FALSE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,39427,60.26666667,60
+17778,41,84,4/6/2017,FALSE,Approved,Solex,Road,medium,medium,416.98,$312.74 ,39427,60.4,60
+16792,76,85,12/10/2017,FALSE,Approved,WeareA2B,Standard,low,medium,642.31,$513.85 ,41922,60.53333333,61
+13371,22,85,20/05/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,60.34,$45.26 ,34165,60.66666667,61
+1486,69,85,18/01/2017,TRUE,Approved,Giant Bicycles,Road,medium,medium,792.9,$594.68 ,33879,60.8,61
+12537,50,85,9/1/2017,FALSE,Approved,WeareA2B,Standard,medium,small,175.89,$131.92 ,37668,60.93333333,61
+13183,14,85,7/4/2017,TRUE,Approved,Trek Bicycles,Standard,medium,small,1386.84,"$1,234.29 ",37838,61.06666667,61
+11384,91,85,23/11/2017,TRUE,Approved,Solex,Standard,medium,medium,100.35,$75.26 ,36367,61.2,61
+18930,99,86,26/11/2017,FALSE,Approved,Trek Bicycles,Road,low,small,1720.7,"$1,531.42 ",41009,61.33333333,61
+3353,29,86,8/11/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,36833,61.46666667,61
+14354,0,86,5/7/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,569.56,$528.43 ,33364,61.6,62
+3295,19,86,28/11/2017,FALSE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,38216,61.73333333,62
+9158,88,86,30/12/2017,TRUE,Approved,Norco Bicycles,Standard,high,small,1661.92,"$1,479.11 ",34165,61.86666667,62
+2401,0,86,30/07/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,36668,62,62
+1200,0,86,21/06/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,71.16,$56.93 ,38647,62.13333333,62
+17879,0,86,28/01/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,230.91,$173.18 ,37698,62.26666667,62
+8498,29,86,13/06/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,41434,62.4,62
+15795,74,87,26/10/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1228.07,$400.91 ,36668,62.53333333,63
+12506,93,87,7/4/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,36833,62.66666667,63
+10866,14,87,21/01/2017,FALSE,Approved,Trek Bicycles,Standard,medium,small,1386.84,"$1,234.29 ",37838,62.8,63
+11915,27,87,25/01/2017,FALSE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,36334,62.93333333,63
+10426,21,87,20/07/2017,TRUE,Approved,Solex,Standard,medium,large,1071.23,$380.74 ,35160,63.06666667,63
+323,67,87,8/11/2017,TRUE,Approved,Norco Bicycles,Road,medium,medium,544.05,$376.84 ,38647,63.2,63
+14843,70,87,19/07/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,495.72,$297.43 ,42105,63.33333333,63
+11235,59,87,23/09/2017,FALSE,Approved,Solex,Standard,medium,large,1061.56,$733.58 ,34170,63.46666667,63
+14787,32,87,12/12/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,642.7,$211.37 ,37337,63.6,64
+8388,86,88,12/9/2017,TRUE,Approved,Norco Bicycles,Road,high,large,774.53,$464.72 ,40336,63.73333333,64
+8067,99,88,15/06/2017,FALSE,Approved,Trek Bicycles,Road,low,small,1720.7,"$1,531.42 ",38991,63.86666667,64
+15779,0,88,12/7/2017,FALSE,Approved,OHM Cycles,Road,high,large,12.01,$7.21 ,34115,64,64
+8672,32,88,17/10/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1179,$707.40 ,36145,64.13333333,64
+15052,0,88,12/3/2017,FALSE,Approved,OHM Cycles,Standard,low,medium,71.16,$56.93 ,34143,64.26666667,64
+9143,46,88,6/8/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,36361,64.4,64
+15456,73,89,23/10/2017,FALSE,Approved,Solex,Standard,medium,medium,1945.43,$333.18 ,41922,64.53333333,65
+19781,92,89,14/12/2017,TRUE,Approved,WeareA2B,Standard,medium,small,1415.01,"$1,259.36 ",41434,64.66666667,65
+15259,8,89,13/11/2017,TRUE,Approved,Solex,Road,medium,small,1703.52,"$1,516.13 ",38216,64.8,65
+15198,89,89,26/12/2017,TRUE,Approved,WeareA2B,Touring,medium,large,1362.99,$57.74 ,42458,64.93333333,65
+18453,1,89,1/12/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,42688,65.06666667,65
+1960,59,89,29/10/2017,FALSE,Approved,Solex,Standard,medium,large,1061.56,$733.58 ,42145,65.2,65
+12021,45,89,20/03/2017,TRUE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,38991,65.33333333,65
+2852,92,89,14/02/2017,FALSE,Approved,WeareA2B,Standard,medium,small,1415.01,"$1,259.36 ",37626,65.46666667,65
+14069,26,89,11/12/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1992.93,$762.63 ,37698,65.6,66
+9622,28,90,12/7/2017,FALSE,Approved,Norco Bicycles,Standard,medium,small,1216.14,"$1,082.36 ",33455,65.73333333,66
+17302,24,90,9/3/2017,FALSE,Approved,Solex,Road,medium,large,1777.8,$820.78 ,40670,65.86666667,66
+8350,99,90,9/3/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,1227.34,$770.89 ,34556,66,66
+4687,48,90,5/8/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1762.96,$950.52 ,41848,66.13333333,66
+13981,29,90,15/08/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,543.39,$407.54 ,42696,66.26666667,66
+11854,36,90,26/03/2017,TRUE,Approved,Solex,Standard,low,medium,945.04,$507.58 ,35052,66.4,66
+18212,31,90,30/11/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,230.91,$173.18 ,39031,66.53333333,67
+7262,45,91,24/11/2017,FALSE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,37668,66.66666667,67
+5221,2,91,13/04/2017,TRUE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41167,66.8,67
+9663,7,91,28/07/2017,FALSE,Approved,Trek Bicycles,Road,low,medium,980.37,$234.43 ,39298,66.93333333,67
+5542,11,91,28/07/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1274.93,$764.96 ,34586,67.06666667,67
+7417,17,91,23/04/2017,TRUE,Approved,Solex,Standard,high,medium,1024.66,$614.80 ,34244,67.2,67
+9093,57,91,15/12/2017,FALSE,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,42172,67.33333333,67
+10567,43,91,30/07/2017,FALSE,Approved,Solex,Standard,medium,medium,1151.96,$649.49 ,41848,67.46666667,67
+3538,12,91,21/12/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1231.15,$161.60 ,41345,67.6,68
+14106,20,92,14/01/2017,TRUE,Approved,Trek Bicycles,Standard,medium,small,1775.81,"$1,580.47 ",41701,67.73333333,68
+3546,12,92,16/11/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1231.15,$161.60 ,34170,67.86666667,68
+2275,3,92,26/11/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,36361,68,68
+5600,87,93,30/01/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1179,$707.40 ,34586,68.13333333,68
+2949,3,93,26/08/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,34170,68.26666667,68
+1538,51,93,12/10/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,2005.66,"$1,203.40 ",40672,68.4,68
+7504,57,94,12/9/2017,FALSE,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,33259,68.53333333,69
+9300,14,94,18/08/2017,FALSE,Approved,Trek Bicycles,Standard,medium,small,1386.84,"$1,234.29 ",37838,68.66666667,69
+775,31,94,4/9/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,230.91,$173.18 ,39031,68.8,69
+14879,63,94,17/11/2017,FALSE,Approved,Solex,Standard,medium,medium,1483.2,$99.59 ,36146,68.93333333,69
+18032,64,94,14/10/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,1469.44,$596.55 ,41047,69.06666667,69
+7199,45,94,27/11/2017,TRUE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,34071,69.2,69
+5213,1,94,27/11/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,42688,69.33333333,69
+19080,1,95,6/6/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,42688,69.46666667,69
+10944,58,95,30/10/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,912.52,$141.40 ,42145,69.6,70
+17452,76,95,11/9/2017,FALSE,Approved,WeareA2B,Standard,low,medium,642.31,$513.85 ,37873,69.73333333,70
+13148,3,95,22/11/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,41167,69.86666667,70
+5733,52,96,8/1/2017,FALSE,Approved,OHM Cycles,Road,medium,medium,1280.28,$829.51 ,37220,70,70
+11410,45,96,21/10/2017,FALSE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,34071,70.13333333,70
+7907,59,96,16/02/2017,TRUE,Approved,Solex,Standard,medium,large,1061.56,$733.58 ,34170,70.26666667,70
+11834,0,96,5/9/2017,TRUE,Approved,,,,,1091.51,,,70.4,70
+9473,66,97,24/05/2017,TRUE,Approved,Giant Bicycles,Road,low,small,590.26,$525.33 ,40410,70.53333333,71
+19166,68,97,8/8/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,1636.9,$44.71 ,34996,70.66666667,71
+9340,1,97,19/09/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,41167,70.8,71
+15600,86,97,30/07/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,235.63,$125.07 ,36145,70.93333333,71
+14564,49,97,25/04/2017,TRUE,Approved,Trek Bicycles,Road,medium,medium,533.51,$400.13 ,41064,71.06666667,71
+10000,1,97,2/1/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,33549,71.2,71
+4693,88,97,29/05/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,1198.46,$381.10 ,37874,71.33333333,71
+6977,55,97,23/05/2017,TRUE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,34143,71.46666667,71
+1641,69,98,11/8/2017,FALSE,Approved,Giant Bicycles,Road,medium,medium,792.9,$594.68 ,33879,71.6,72
+832,16,98,30/07/2017,FALSE,Approved,Norco Bicycles,Standard,high,small,1661.92,"$1,479.11 ",34586,71.73333333,72
+16329,51,98,21/04/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,2005.66,"$1,203.40 ",41009,71.86666667,72
+12109,34,98,30/08/2017,,Approved,Norco Bicycles,Road,high,large,774.53,$464.72 ,37698,72,72
+4877,36,98,7/5/2017,TRUE,Approved,Solex,Standard,low,medium,945.04,$507.58 ,35052,72.13333333,72
+10970,55,99,11/3/2017,TRUE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,37823,72.26666667,72
+5995,65,99,8/9/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1807.45,$778.69 ,42145,72.4,72
+13651,27,99,28/12/2017,FALSE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,36334,72.53333333,73
+15725,4,99,26/11/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,38573,72.66666667,73
+1019,88,99,4/9/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,1198.46,$381.10 ,36145,72.8,73
+4408,34,99,1/10/2017,TRUE,Approved,Norco Bicycles,Road,high,large,774.53,$464.72 ,37698,72.93333333,73
+2580,50,99,18/10/2017,TRUE,Approved,WeareA2B,Standard,medium,small,175.89,$131.92 ,37668,73.06666667,73
+3083,45,99,15/06/2017,FALSE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,34071,73.2,73
+4231,98,99,26/09/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,358.39,$215.03 ,38002,73.33333333,73
+5925,51,100,10/5/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,2005.66,"$1,203.40 ",41848,73.46666667,73
+9585,9,100,19/12/2017,TRUE,Approved,OHM Cycles,Road,medium,medium,742.54,$667.40 ,38647,73.6,74
+11989,0,101,26/07/2017,TRUE,Approved,OHM Cycles,Road,high,large,12.01,$7.21 ,39880,73.73333333,74
+5150,93,101,23/03/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,1458.17,$874.90 ,38750,73.86666667,74
+13921,38,101,18/06/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,41167,74,74
+17191,6,101,22/12/2017,FALSE,Approved,Solex,Standard,high,medium,748.17,$448.90 ,33552,74.13333333,74
+11394,65,102,8/5/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1807.45,$778.69 ,42145,74.26666667,74
+5240,86,102,27/03/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,235.63,$125.07 ,38206,74.4,74
+2034,34,102,18/11/2017,FALSE,Approved,Norco Bicycles,Road,high,large,774.53,$464.72 ,37698,74.53333333,75
+79,87,102,12/9/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1179,$707.40 ,35667,74.66666667,75
+5339,59,102,22/04/2017,TRUE,Approved,Solex,Standard,medium,large,1061.56,$733.58 ,34170,74.8,75
+4749,15,102,19/08/2017,TRUE,Approved,Norco Bicycles,Standard,low,medium,958.74,$748.90 ,38693,74.93333333,75
+13567,76,102,9/4/2017,FALSE,Approved,WeareA2B,Standard,low,medium,642.31,$513.85 ,41922,75.06666667,75
+7971,42,103,14/01/2017,FALSE,Approved,OHM Cycles,Road,medium,small,1810,"$1,610.90 ",34071,75.2,75
+4047,2,103,11/11/2017,,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,37659,75.33333333,75
+15503,20,103,5/9/2017,FALSE,Approved,Trek Bicycles,Standard,medium,small,1775.81,"$1,580.47 ",33455,75.46666667,75
+3965,17,103,17/08/2017,TRUE,Approved,Solex,Standard,high,medium,1024.66,$614.80 ,35160,75.6,76
+529,6,103,3/6/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,37838,75.73333333,76
+4782,12,104,8/10/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1231.15,$161.60 ,34586,75.86666667,76
+4653,0,104,8/3/2017,FALSE,Approved,,,,,1678.71,,,76,76
+7401,23,104,27/10/2017,FALSE,Approved,Norco Bicycles,Mountain,low,small,688.63,$612.88 ,40670,76.13333333,76
+15711,36,104,15/05/2017,,Approved,Solex,Standard,low,medium,945.04,$507.58 ,40618,76.26666667,76
+5297,28,104,17/06/2017,FALSE,Approved,Norco Bicycles,Standard,medium,small,1216.14,"$1,082.36 ",37698,76.4,76
+17251,2,104,5/3/2017,FALSE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,76.53333333,77
+11916,86,104,17/06/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,235.63,$125.07 ,36367,76.66666667,77
+6851,17,104,27/02/2017,TRUE,Approved,Solex,Standard,high,medium,1024.66,$614.80 ,34244,76.8,77
+5120,55,104,14/07/2017,TRUE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,37823,76.93333333,77
+16625,40,105,31/07/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,1458.17,$874.90 ,33455,77.06666667,77
+12760,3,105,2/10/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,37823,77.2,77
+14466,4,105,28/03/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,37698,77.33333333,77
+9467,79,105,6/3/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,1555.58,$818.01 ,39298,77.46666667,77
+19385,0,106,29/12/2017,TRUE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41701,77.6,78
+5668,77,106,19/06/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1769.64,$108.76 ,41064,77.73333333,78
+8154,29,106,9/9/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,38002,77.86666667,78
+8198,10,107,10/10/2017,TRUE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,34586,78,78
+16587,10,107,13/04/2017,FALSE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,35378,78.13333333,78
+19013,56,107,30/01/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,183.86,$137.90 ,35707,78.26666667,78
+18332,6,107,28/05/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,38258,78.4,78
+6300,19,108,14/12/2017,TRUE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,40784,78.53333333,79
+4085,70,108,16/11/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,1036.59,$206.35 ,33364,78.66666667,79
+16093,10,108,20/12/2017,TRUE,Approved,Solex,Standard,medium,medium,1945.43,$333.18 ,37499,78.8,79
+7718,59,109,23/02/2017,FALSE,Approved,Solex,Standard,medium,large,1061.56,$733.58 ,38647,78.93333333,79
+8873,47,109,21/06/2017,TRUE,Approved,Trek Bicycles,Road,low,small,1720.7,"$1,531.42 ",41064,79.06666667,79
+19765,27,109,10/7/2017,FALSE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,34527,79.2,79
+6526,57,109,16/08/2017,TRUE,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,36146,79.33333333,79
+16615,66,109,22/12/2017,TRUE,Approved,Giant Bicycles,Road,low,small,590.26,$525.33 ,33879,79.46666667,79
+11704,4,109,19/01/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,40784,79.6,80
+6752,38,109,30/08/2017,FALSE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,39526,79.73333333,80
+13858,38,109,28/02/2017,FALSE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,40618,79.86666667,80
+1539,2,109,2/10/2017,TRUE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,80,80
+8286,29,109,7/3/2017,TRUE,Approved,Norco Bicycles,Road,medium,medium,543.39,$407.54 ,33888,80.13333333,80
+11382,64,110,16/12/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,1469.44,$596.55 ,41047,80.26666667,80
+1442,5,110,19/01/2017,TRUE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,40784,80.4,80
+17244,11,110,11/7/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1274.93,$764.96 ,39298,80.53333333,81
+17515,92,110,22/05/2017,TRUE,Approved,WeareA2B,Standard,medium,small,1415.01,"$1,259.36 ",37626,80.66666667,81
+17354,51,110,24/02/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,2005.66,"$1,203.40 ",41009,80.8,81
+6836,72,110,24/09/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,42710,80.93333333,81
+18967,23,110,8/7/2017,TRUE,Approved,Norco Bicycles,Mountain,low,small,688.63,$612.88 ,34244,81.06666667,81
+8640,24,111,5/4/2017,FALSE,Approved,Solex,Road,medium,large,1777.8,$820.78 ,40670,81.2,81
+5085,6,111,5/8/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,37659,81.33333333,81
+8427,46,111,24/04/2017,TRUE,Approved,Solex,Standard,low,medium,1289.85,$74.51 ,39427,81.46666667,81
+9396,38,111,26/07/2017,TRUE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,40618,81.6,82
+9689,6,112,13/11/2017,TRUE,Approved,Solex,Standard,high,medium,748.17,$448.90 ,42105,81.73333333,82
+4333,46,112,21/05/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,36146,81.86666667,82
+3011,35,112,19/06/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,35667,82,82
+670,5,112,29/01/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,37698,82.13333333,82
+10122,38,112,22/02/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,40779,82.26666667,82
+16726,40,112,24/01/2017,TRUE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,40649,82.4,82
+3197,96,113,4/1/2017,FALSE,Cancelled,WeareA2B,Road,low,small,1172.78,"$1,043.77 ",37539,82.53333333,83
+16920,18,113,1/1/2017,FALSE,Approved,Solex,Standard,medium,medium,575.27,$431.45 ,41345,82.66666667,83
+4394,32,113,4/1/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,642.7,$211.37 ,37337,82.8,83
+7524,18,113,12/2/2017,TRUE,Approved,Solex,Standard,medium,medium,575.27,$431.45 ,41345,82.93333333,83
+7688,83,113,8/7/2017,TRUE,Approved,Solex,Touring,medium,large,2083.94,$675.03 ,41533,83.06666667,83
+5051,90,113,21/04/2017,FALSE,Approved,Norco Bicycles,Standard,low,medium,363.01,$290.41 ,38482,83.2,83
+13309,93,114,21/06/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,36833,83.33333333,83
+1381,61,114,21/10/2017,FALSE,Approved,OHM Cycles,Standard,low,medium,71.16,$56.93 ,42172,83.46666667,83
+13346,55,114,17/05/2017,FALSE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,37823,83.6,84
+18448,97,114,4/2/2017,FALSE,Approved,Solex,Standard,medium,large,202.62,$151.96 ,42458,83.73333333,84
+12409,33,115,15/12/2017,FALSE,Approved,Giant Bicycles,Standard,medium,small,1311.44,"$1,167.18 ",33888,83.86666667,84
+12730,4,115,15/02/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,38573,84,84
+2941,75,115,16/12/2017,TRUE,Approved,Giant Bicycles,Touring,medium,large,1873.97,$863.95 ,38859,84.13333333,84
+8299,84,115,20/10/2017,TRUE,Approved,Trek Bicycles,Road,medium,medium,290.62,$215.14 ,38339,84.26666667,84
+15722,32,115,29/09/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,642.7,$211.37 ,37337,84.4,84
+10941,47,115,29/09/2017,FALSE,Approved,Trek Bicycles,Road,low,small,1720.7,"$1,531.42 ",38991,84.53333333,85
+5920,98,115,21/09/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,358.39,$215.03 ,38002,84.66666667,85
+19271,21,115,22/01/2017,FALSE,Approved,Solex,Standard,medium,large,1071.23,$380.74 ,35160,84.8,85
+3593,10,116,15/11/2017,FALSE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,42560,84.93333333,85
+11293,98,116,16/07/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,358.39,$215.03 ,34556,85.06666667,85
+12442,32,116,2/7/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,642.7,$211.37 ,37337,85.2,85
+18318,28,116,25/05/2017,FALSE,Approved,Norco Bicycles,Standard,medium,small,1216.14,"$1,082.36 ",33888,85.33333333,85
+3682,50,116,10/7/2017,FALSE,Approved,WeareA2B,Standard,medium,small,175.89,$131.92 ,42295,85.46666667,85
+19819,5,116,16/08/2017,FALSE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,38258,85.6,86
+7478,91,116,18/12/2017,TRUE,Approved,Solex,Standard,medium,medium,100.35,$75.26 ,34556,85.73333333,86
+1994,4,116,15/05/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,33549,85.86666667,86
+17382,38,117,25/02/2017,TRUE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,37220,86,86
+12124,45,117,18/05/2017,FALSE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,42172,86.13333333,86
+10026,96,117,17/06/2017,FALSE,Approved,WeareA2B,Road,low,small,1172.78,"$1,043.77 ",35052,86.26666667,86
+18181,87,117,25/12/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1179,$707.40 ,38693,86.4,86
+8644,10,117,28/04/2017,TRUE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,34556,86.53333333,87
+15490,64,117,13/01/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,1469.44,$596.55 ,36668,86.66666667,87
+8758,63,117,19/12/2017,TRUE,Approved,Solex,Standard,medium,medium,1483.2,$99.59 ,38216,86.8,87
+12718,30,117,12/4/2017,TRUE,Approved,Solex,Standard,high,medium,748.17,$448.90 ,42105,86.93333333,87
+5064,79,117,12/9/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,1555.58,$818.01 ,39298,87.06666667,87
+3191,48,117,19/06/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1762.96,$950.52 ,42688,87.2,87
+17174,38,118,28/03/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,41167,87.33333333,87
+10418,29,118,18/02/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,36833,87.46666667,87
+17913,90,118,22/10/2017,TRUE,Approved,Solex,Standard,low,medium,945.04,$507.58 ,35052,87.6,88
+18666,22,118,29/05/2017,TRUE,Approved,Solex,Standard,medium,medium,575.27,$431.45 ,41345,87.73333333,88
+3032,50,118,21/10/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,642.7,$211.37 ,37337,87.86666667,88
+1933,89,119,9/8/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,1812.75,$582.48 ,40336,88,88
+100,0,119,31/07/2017,FALSE,Approved,Solex,Standard,medium,medium,478.16,$298.72 ,36146,88.13333333,88
+10186,87,119,30/11/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,1636.9,$44.71 ,33879,88.26666667,88
+18179,36,119,28/10/2017,TRUE,Approved,Solex,Standard,low,medium,1289.85,$74.51 ,39427,88.4,88
+11745,62,120,23/08/2017,TRUE,Approved,Solex,Standard,high,medium,1024.66,$614.80 ,35160,88.53333333,89
+17435,90,120,9/8/2017,,Approved,Solex,Standard,low,medium,945.04,$507.58 ,40618,88.66666667,89
+6069,18,120,20/06/2017,TRUE,Approved,Norco Bicycles,Standard,high,medium,1148.64,$689.18 ,41533,88.8,89
+19503,93,121,21/08/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,36833,88.93333333,89
+17398,79,121,6/1/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,1555.58,$818.01 ,37873,89.06666667,89
+19745,41,121,10/9/2017,FALSE,Approved,Solex,Road,medium,medium,416.98,$312.74 ,35560,89.2,89
+17205,46,121,14/02/2017,FALSE,Approved,Solex,Standard,low,medium,1289.85,$74.51 ,39427,89.33333333,89
+3057,92,122,30/08/2017,FALSE,Approved,WeareA2B,Standard,medium,small,1415.01,"$1,259.36 ",34556,89.46666667,89
+15621,5,122,4/10/2017,TRUE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,40784,89.6,90
+19867,38,122,17/09/2017,FALSE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,39526,89.73333333,90
+11329,37,122,3/6/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,39526,89.86666667,90
+8404,96,122,22/12/2017,TRUE,Approved,WeareA2B,Road,low,small,1172.78,"$1,043.77 ",34556,90,90
+4154,74,123,22/06/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1762.96,$950.52 ,41848,90.13333333,90
+15205,87,123,1/1/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,1636.9,$44.71 ,40410,90.26666667,90
+4691,0,123,16/02/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,42710,90.4,90
+9116,13,123,9/2/2017,FALSE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,40618,90.53333333,91
+8519,0,124,8/10/2017,TRUE,Approved,Norco Bicycles,Standard,low,medium,363.01,$290.41 ,36367,90.66666667,91
+18953,52,124,28/12/2017,TRUE,Approved,Solex,Road,medium,large,1777.8,$820.78 ,36334,90.8,91
+6293,10,124,18/03/2017,TRUE,Approved,Solex,Standard,medium,medium,1945.43,$333.18 ,40553,90.93333333,91
+3907,49,124,7/3/2017,FALSE,Approved,Solex,Standard,medium,large,1061.56,$733.58 ,40487,91.06666667,91
+3678,0,124,9/10/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,544.05,$376.84 ,37499,91.2,91
+1551,19,124,17/04/2017,FALSE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,40784,91.33333333,91
+12746,25,124,30/06/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,2005.66,"$1,203.40 ",34170,91.46666667,91
+14309,48,125,8/10/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1762.96,$950.52 ,41848,91.6,92
+15787,82,125,9/5/2017,FALSE,Approved,Norco Bicycles,Standard,high,medium,1148.64,$689.18 ,42226,91.73333333,92
+13909,2,125,28/08/2017,TRUE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,91.86666667,92
+441,93,125,25/02/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,36833,92,92
+18281,85,125,10/5/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,752.64,$205.36 ,42218,92.13333333,92
+3700,95,125,27/08/2017,FALSE,Cancelled,Giant Bicycles,Standard,medium,large,569.56,$528.43 ,37874,92.26666667,92
+1972,36,125,13/01/2017,TRUE,Approved,Solex,Standard,low,medium,945.04,$507.58 ,35052,92.4,92
+10969,61,125,15/07/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,71.16,$56.93 ,42172,92.53333333,93
+498,72,125,29/05/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,42710,92.66666667,93
+18137,72,125,28/05/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,42710,92.8,93
+1877,1,126,26/01/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,41245,92.93333333,93
+17541,40,126,19/12/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,1458.17,$874.90 ,35560,93.06666667,93
+18915,81,126,15/10/2017,FALSE,Approved,Norco Bicycles,Standard,medium,small,586.45,$521.94 ,42218,93.2,93
+5760,42,127,21/01/2017,TRUE,Approved,OHM Cycles,Road,medium,small,1810,"$1,610.90 ",39526,93.33333333,93
+11311,9,127,11/2/2017,TRUE,Approved,OHM Cycles,Road,medium,medium,742.54,$667.40 ,33549,93.46666667,93
+17847,21,127,7/6/2017,TRUE,Approved,Solex,Standard,medium,large,1071.23,$380.74 ,35160,93.6,94
+19997,41,127,9/11/2017,TRUE,Approved,Solex,Road,medium,medium,416.98,$312.74 ,35560,93.73333333,94
+18957,62,127,27/11/2017,FALSE,Approved,Solex,Standard,medium,medium,478.16,$298.72 ,34143,93.86666667,94
+11246,53,127,9/6/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,35470,94,94
+11052,6,127,11/9/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,37659,94.13333333,94
+1155,16,127,3/1/2017,TRUE,Approved,Norco Bicycles,Standard,high,small,1661.92,"$1,479.11 ",34586,94.26666667,94
+2786,85,127,7/12/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,752.64,$205.36 ,42218,94.4,94
+3218,26,127,3/3/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1992.93,$762.63 ,34115,94.53333333,95
+18729,95,128,5/5/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,569.56,$528.43 ,34556,94.66666667,95
+7390,55,128,5/4/2017,TRUE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,40779,94.8,95
+10384,86,128,15/08/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,235.63,$125.07 ,41434,94.93333333,95
+10803,7,128,1/8/2017,TRUE,Approved,Trek Bicycles,Road,low,medium,980.37,$234.43 ,37838,95.06666667,95
+8541,87,129,15/02/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,1636.9,$44.71 ,42105,95.2,95
+16005,0,129,12/1/2017,TRUE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,38573,95.33333333,95
+13619,54,129,16/02/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1807.45,$778.69 ,38647,95.46666667,95
+19285,19,129,5/7/2017,TRUE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,42560,95.6,96
+19854,68,130,2/2/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,1636.9,$44.71 ,40410,95.73333333,96
+17669,8,130,15/10/2017,FALSE,Approved,Solex,Road,medium,small,1703.52,"$1,516.13 ",40649,95.86666667,96
+13831,10,131,11/2/2017,TRUE,Approved,Solex,Standard,medium,medium,1945.43,$333.18 ,37499,96,96
+9844,52,131,16/01/2017,TRUE,Approved,Solex,Road,medium,large,1777.8,$820.78 ,40670,96.13333333,96
+14043,40,131,21/05/2017,TRUE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,37823,96.26666667,96
+1724,86,131,19/04/2017,FALSE,Approved,Norco Bicycles,Road,high,large,774.53,$464.72 ,37698,96.4,96
+14079,0,131,24/05/2017,FALSE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,42710,96.53333333,97
+8576,63,131,8/6/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1992.93,$762.63 ,34115,96.66666667,97
+16843,25,132,11/3/2017,TRUE,Approved,Giant Bicycles,Road,medium,medium,1538.99,$829.65 ,37337,96.8,97
+7876,94,132,11/7/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,1635.3,$993.66 ,38002,96.93333333,97
+16403,78,132,5/12/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,1765.3,$709.48 ,35455,97.06666667,97
+2625,49,132,23/12/2017,TRUE,Approved,Trek Bicycles,Road,medium,medium,533.51,$400.13 ,37220,97.2,97
+2127,16,132,10/2/2017,TRUE,Approved,Norco Bicycles,Standard,high,small,1661.92,"$1,479.11 ",40670,97.33333333,97
+592,31,132,21/03/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,230.91,$173.18 ,33888,97.46666667,97
+4203,17,133,4/12/2017,TRUE,Approved,Solex,Standard,high,medium,1024.66,$614.80 ,41345,97.6,98
+6188,81,133,30/03/2017,FALSE,Approved,Norco Bicycles,Standard,medium,small,586.45,$521.94 ,35667,97.73333333,98
+16176,9,133,21/05/2017,TRUE,Approved,OHM Cycles,Road,medium,medium,742.54,$667.40 ,38216,97.86666667,98
+9637,86,133,19/01/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,235.63,$125.07 ,35667,98,98
+1586,18,133,4/1/2017,TRUE,Approved,Solex,Standard,medium,medium,575.27,$431.45 ,34244,98.13333333,98
+8127,2,134,10/10/2017,FALSE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,38573,98.26666667,98
+13353,57,134,3/2/2017,FALSE,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,41047,98.4,98
+18335,16,134,7/2/2017,TRUE,Approved,Norco Bicycles,Standard,high,small,1661.92,"$1,479.11 ",35378,98.53333333,99
+6070,60,134,16/12/2017,FALSE,Approved,Giant Bicycles,Standard,high,small,1977.36,"$1,759.85 ",42172,98.66666667,99
+10622,91,134,16/02/2017,FALSE,Approved,Solex,Standard,medium,medium,100.35,$75.26 ,34556,98.8,99
+1605,64,134,6/9/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,1469.44,$596.55 ,33879,98.93333333,99
+1029,17,135,9/1/2017,FALSE,Approved,Solex,Standard,high,medium,1024.66,$614.80 ,35378,99.06666667,99
+19990,55,135,27/01/2017,TRUE,Cancelled,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,37823,99.2,99
+2114,90,135,25/05/2017,FALSE,Approved,Norco Bicycles,Standard,low,medium,363.01,$290.41 ,38482,99.33333333,99
+17684,46,135,23/02/2017,FALSE,Approved,Solex,Standard,low,medium,1289.85,$74.51 ,39427,99.46666667,99
+10831,31,135,10/8/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,230.91,$173.18 ,39031,99.6,100
+4823,5,135,24/04/2017,FALSE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,40784,99.73333333,100
+15445,63,135,6/9/2017,TRUE,Approved,Solex,Standard,medium,medium,1483.2,$99.59 ,36146,99.86666667,100
+17746,0,136,16/07/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,37659,100,100
+19224,84,136,5/10/2017,TRUE,Approved,Giant Bicycles,Road,medium,medium,792.9,$594.68 ,34996,100.1333333,100
+13656,46,136,17/10/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,40618,100.2666667,100
+16328,80,136,8/7/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,1469.44,$596.55 ,40487,100.4,100
+3468,76,136,13/01/2017,TRUE,Approved,WeareA2B,Road,low,small,1172.78,"$1,043.77 ",42458,100.5333333,101
+7890,64,136,9/7/2017,TRUE,Approved,Giant Bicycles,Standard,high,small,1977.36,"$1,759.85 ",34143,100.6666667,101
+16120,35,136,20/04/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,41245,100.8,101
+19176,0,136,10/12/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,569.56,$528.43 ,38002,100.9333333,101
+9439,61,137,26/01/2017,TRUE,Approved,Norco Bicycles,Standard,medium,small,586.45,$521.94 ,33429,101.0666667,101
+19680,0,137,18/03/2017,TRUE,Approved,Norco Bicycles,Road,medium,medium,543.39,$407.54 ,42696,101.2,101
+1378,58,137,25/03/2017,TRUE,Approved,OHM Cycles,Road,medium,medium,1280.28,$829.51 ,37220,101.3333333,101
+15713,70,137,25/07/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,1036.59,$206.35 ,33364,101.4666667,101
+4092,0,137,3/12/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,60.34,$45.26 ,34165,101.6,102
+5877,67,138,1/1/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,544.05,$376.84 ,38647,101.7333333,102
+14290,89,138,24/07/2017,TRUE,Approved,WeareA2B,Touring,medium,large,1362.99,$57.74 ,41434,101.8666667,102
+8592,2,138,26/09/2017,TRUE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,102,102
+15774,53,138,27/10/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,39915,102.1333333,102
+5154,10,138,25/07/2017,FALSE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,35378,102.2666667,102
+7746,81,138,8/5/2017,TRUE,Approved,Norco Bicycles,Standard,medium,small,586.45,$521.94 ,34079,102.4,102
+7324,91,138,10/8/2017,FALSE,Approved,Solex,Standard,medium,medium,100.35,$75.26 ,34556,102.5333333,103
+19573,13,139,24/10/2017,TRUE,Approved,Solex,Standard,medium,medium,1163.89,$589.27 ,42560,102.6666667,103
+1759,38,139,21/05/2017,TRUE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,40618,102.8,103
+15686,80,139,8/8/2017,TRUE,Approved,OHM Cycles,Touring,low,medium,1073.07,$933.84 ,35455,102.9333333,103
+7227,13,139,31/10/2017,TRUE,Approved,Solex,Standard,medium,medium,1163.89,$589.27 ,42560,103.0666667,103
+19278,3,139,19/04/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,41167,103.2,103
+9675,79,139,28/02/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,1555.58,$818.01 ,37873,103.3333333,103
+14320,66,139,3/1/2017,TRUE,Approved,Giant Bicycles,Road,low,small,590.26,$525.33 ,40487,103.4666667,103
+4783,36,139,4/12/2017,FALSE,Approved,Solex,Standard,low,medium,945.04,$507.58 ,35052,103.6,104
+5422,62,139,9/2/2017,FALSE,Approved,Solex,Standard,medium,medium,478.16,$298.72 ,34143,103.7333333,104
+8799,60,140,27/12/2017,TRUE,Approved,Giant Bicycles,Standard,high,small,1977.36,"$1,759.85 ",40779,103.8666667,104
+12540,51,140,30/04/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,2005.66,"$1,203.40 ",41009,104,104
+403,14,140,17/02/2017,FALSE,Approved,Trek Bicycles,Standard,medium,small,1386.84,"$1,234.29 ",37838,104.1333333,104
+1050,6,140,7/1/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,37659,104.2666667,104
+3898,21,140,15/06/2017,TRUE,Approved,Solex,Standard,medium,large,1071.23,$380.74 ,35160,104.4,104
+15669,7,140,1/6/2017,TRUE,Approved,Trek Bicycles,Road,low,medium,980.37,$234.43 ,38258,104.5333333,105
+206,5,141,5/5/2017,FALSE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,38573,104.6666667,105
+4077,21,141,24/07/2017,TRUE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,35378,104.8,105
+16066,93,141,12/5/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,1458.17,$874.90 ,36498,104.9333333,105
+8580,85,142,14/05/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,752.64,$205.36 ,42218,105.0666667,105
+1250,90,142,16/04/2017,FALSE,Approved,Norco Bicycles,Standard,low,medium,363.01,$290.41 ,38482,105.2,105
+1939,74,142,26/12/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1228.07,$400.91 ,36668,105.3333333,105
+17934,56,142,8/1/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,183.86,$137.90 ,35707,105.4666667,105
+14644,60,142,21/03/2017,FALSE,Approved,Giant Bicycles,Standard,high,small,1977.36,"$1,759.85 ",40779,105.6,106
+17771,66,142,26/08/2017,FALSE,Approved,Giant Bicycles,Road,low,small,590.26,$525.33 ,40487,105.7333333,106
+18845,11,142,28/06/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1274.93,$764.96 ,39298,105.8666667,106
+285,48,142,27/07/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1762.96,$950.52 ,41848,106,106
+3926,14,142,16/06/2017,TRUE,Approved,Trek Bicycles,Standard,medium,small,1386.84,"$1,234.29 ",37838,106.1333333,106
+259,87,142,6/7/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1179,$707.40 ,35667,106.2666667,106
+18339,20,142,22/02/2017,TRUE,Approved,Trek Bicycles,Standard,medium,small,1775.81,"$1,580.47 ",40303,106.4,106
+3853,7,143,22/04/2017,FALSE,Approved,Trek Bicycles,Road,low,medium,980.37,$234.43 ,33549,106.5333333,107
+12984,77,143,26/01/2017,TRUE,Approved,Norco Bicycles,Road,medium,large,1240.31,$795.10 ,38193,106.6666667,107
+3314,1,143,17/12/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,41245,106.8,107
+17467,93,143,8/8/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,33364,106.9333333,107
+11169,88,144,2/11/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,1198.46,$381.10 ,36145,107.0666667,107
+12031,65,144,18/03/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1807.45,$778.69 ,42145,107.2,107
+4915,39,144,18/06/2017,TRUE,Approved,Giant Bicycles,Standard,medium,large,1812.75,$582.48 ,40336,107.3333333,107
+16551,53,144,24/12/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,35470,107.4666667,107
+14131,81,144,26/02/2017,TRUE,Approved,Norco Bicycles,Standard,medium,small,586.45,$521.94 ,33429,107.6,108
+10850,77,144,29/11/2017,FALSE,Approved,Norco Bicycles,Road,medium,large,1240.31,$795.10 ,40553,107.7333333,108
+15619,17,144,28/11/2017,FALSE,Approved,Solex,Standard,high,medium,1024.66,$614.80 ,35378,107.8666667,108
+14925,70,144,16/03/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,495.72,$297.43 ,42105,108,108
+3483,52,145,3/4/2017,FALSE,Approved,OHM Cycles,Road,medium,medium,1280.28,$829.51 ,37220,108.1333333,108
+12975,39,145,15/11/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,1812.75,$582.48 ,40336,108.2666667,108
+18148,15,145,2/12/2017,FALSE,Approved,Norco Bicycles,Standard,low,medium,958.74,$748.90 ,38693,108.4,108
+1180,2,145,24/11/2017,FALSE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,108.5333333,109
+14945,59,145,24/05/2017,FALSE,Approved,Solex,Standard,medium,large,1061.56,$733.58 ,34170,108.6666667,109
+2115,38,145,12/9/2017,FALSE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,40618,108.8,109
+1394,14,145,15/05/2017,TRUE,Approved,Trek Bicycles,Standard,medium,small,1386.84,"$1,234.29 ",37838,108.9333333,109
+7886,81,146,19/06/2017,TRUE,Approved,Norco Bicycles,Standard,medium,small,586.45,$521.94 ,33429,109.0666667,109
+5344,14,146,24/05/2017,FALSE,Approved,Trek Bicycles,Standard,medium,small,1386.84,"$1,234.29 ",37838,109.2,109
+18601,63,147,26/11/2017,TRUE,Approved,Solex,Standard,medium,medium,1483.2,$99.59 ,39880,109.3333333,109
+982,3,147,13/01/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,38482,109.4666667,109
+7414,30,147,11/9/2017,FALSE,Approved,Solex,Standard,high,medium,748.17,$448.90 ,38859,109.6,110
+9563,96,147,18/06/2017,FALSE,Approved,WeareA2B,Road,low,small,1172.78,"$1,043.77 ",36498,109.7333333,110
+7221,83,147,20/09/2017,FALSE,Approved,Solex,Touring,medium,large,2083.94,$675.03 ,33455,109.8666667,110
+17305,27,147,10/6/2017,FALSE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,35470,110,110
+16443,26,148,26/10/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1992.93,$762.63 ,39031,110.1333333,110
+8947,6,148,17/01/2017,FALSE,Approved,OHM Cycles,Standard,high,medium,227.88,$136.73 ,33549,110.2666667,110
+19974,80,148,17/11/2017,TRUE,Approved,OHM Cycles,Touring,low,medium,1073.07,$933.84 ,33429,110.4,110
+10310,43,148,11/9/2017,TRUE,Approved,Solex,Standard,medium,medium,1151.96,$649.49 ,41064,110.5333333,111
+3301,89,148,21/05/2017,TRUE,Approved,WeareA2B,Touring,medium,large,1362.99,$57.74 ,36367,110.6666667,111
+14672,55,149,12/12/2017,FALSE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,35707,110.8,111
+7932,80,149,14/01/2017,FALSE,Approved,OHM Cycles,Touring,low,medium,1073.07,$933.84 ,33429,110.9333333,111
+9951,97,149,28/08/2017,FALSE,Approved,Solex,Standard,medium,large,202.62,$151.96 ,34556,111.0666667,111
+577,1,149,4/5/2017,,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,40649,111.2,111
+2633,9,149,17/10/2017,,Cancelled,OHM Cycles,Road,medium,medium,742.54,$667.40 ,42560,111.3333333,111
+2307,20,149,2/3/2017,FALSE,Approved,Trek Bicycles,Standard,medium,small,1775.81,"$1,580.47 ",35160,111.4666667,111
+15700,89,150,1/5/2017,TRUE,Approved,WeareA2B,Touring,medium,large,1362.99,$57.74 ,34079,111.6,112
+7146,24,150,11/8/2017,FALSE,Approved,Solex,Road,medium,large,1777.8,$820.78 ,40670,111.7333333,112
+5099,62,150,1/4/2017,FALSE,Approved,Solex,Standard,medium,medium,478.16,$298.72 ,34143,111.8666667,112
+19292,19,150,16/10/2017,FALSE,Approved,OHM Cycles,Road,high,large,12.01,$7.21 ,39880,112,112
+10960,0,151,6/1/2017,TRUE,Approved,,,,,1624.69,,,112.1333333,112
+7543,33,151,31/08/2017,TRUE,Approved,Giant Bicycles,Standard,medium,small,1311.44,"$1,167.18 ",37668,112.2666667,112
+4934,48,151,17/05/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1762.96,$950.52 ,42688,112.4,112
+2634,57,151,20/09/2017,TRUE,Approved,WeareA2B,Touring,medium,large,1890.39,$260.14 ,35378,112.5333333,113
+8046,26,151,7/7/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1992.93,$762.63 ,42218,112.6666667,113
+17827,40,151,15/08/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,1458.17,$874.90 ,35052,112.8,113
+12453,12,151,30/12/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1231.15,$161.60 ,40487,112.9333333,113
+13436,20,151,12/2/2017,TRUE,Approved,Trek Bicycles,Standard,medium,small,1775.81,"$1,580.47 ",39298,113.0666667,113
+956,40,152,18/05/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,1458.17,$874.90 ,38750,113.2,113
+11768,63,152,25/07/2017,TRUE,Approved,Solex,Standard,medium,medium,1483.2,$99.59 ,36146,113.3333333,113
+5067,13,153,8/1/2017,TRUE,Approved,Solex,Standard,medium,medium,1163.89,$589.27 ,42560,113.4666667,113
+12246,3,153,8/2/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,41167,113.6,114
+9106,49,153,2/5/2017,TRUE,Approved,Trek Bicycles,Road,medium,medium,533.51,$400.13 ,37668,113.7333333,114
+1667,5,153,30/06/2017,FALSE,Approved,Trek Bicycles,Mountain,low,medium,574.64,$459.71 ,37659,113.8666667,114
+6299,3,153,2/10/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,38573,114,114
+11624,22,153,27/10/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,60.34,$45.26 ,42404,114.1333333,114
+6450,54,153,9/1/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1292.84,$13.44 ,39915,114.2666667,114
+6192,15,154,7/12/2017,FALSE,Approved,Norco Bicycles,Standard,low,medium,958.74,$748.90 ,38693,114.4,114
+11531,0,154,19/09/2017,TRUE,Approved,,,,,36.78,,,114.5333333,115
+3817,67,154,20/01/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,544.05,$376.84 ,38647,114.6666667,115
+6745,22,154,26/11/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,60.34,$45.26 ,34165,114.8,115
+4100,92,154,11/9/2017,TRUE,Approved,WeareA2B,Standard,medium,small,1415.01,"$1,259.36 ",37626,114.9333333,115
+13136,29,154,20/10/2017,TRUE,Approved,Norco Bicycles,Road,medium,medium,543.39,$407.54 ,42696,115.0666667,115
+19540,34,155,4/1/2017,FALSE,Approved,Norco Bicycles,Road,high,large,774.53,$464.72 ,37698,115.2,115
+19068,40,155,3/8/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,1458.17,$874.90 ,38750,115.3333333,115
+11819,20,155,22/12/2017,FALSE,Approved,Trek Bicycles,Standard,medium,small,1775.81,"$1,580.47 ",40303,115.4666667,115
+10406,72,156,27/10/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,360.4,$270.30 ,37499,115.6,116
+6277,2,156,18/06/2017,FALSE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,38258,115.7333333,116
+5758,3,156,14/12/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,37659,115.8666667,116
+3974,85,156,1/3/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,752.64,$205.36 ,42218,116,116
+4974,79,156,25/01/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,1555.58,$818.01 ,38339,116.1333333,116
+3135,69,157,16/04/2017,,Approved,Giant Bicycles,Road,medium,medium,792.9,$594.68 ,33879,116.2666667,116
+14005,27,157,22/06/2017,TRUE,Cancelled,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,36334,116.4,116
+5141,50,157,17/08/2017,FALSE,Approved,WeareA2B,Standard,medium,small,175.89,$131.92 ,37668,116.5333333,117
+15434,80,157,7/7/2017,FALSE,Approved,OHM Cycles,Touring,low,medium,1073.07,$933.84 ,35455,116.6666667,117
+1295,93,158,8/6/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1065.03,$230.09 ,36833,116.8,117
+7641,55,158,20/07/2017,TRUE,Approved,Trek Bicycles,Road,medium,large,1894.19,$598.76 ,37823,116.9333333,117
+6008,99,158,19/02/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,1227.34,$770.89 ,34556,117.0666667,117
+13703,74,158,26/10/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1228.07,$400.91 ,36668,117.2,117
+4381,18,158,2/6/2017,TRUE,Approved,Solex,Standard,medium,medium,575.27,$431.45 ,41345,117.3333333,117
+2241,12,158,11/2/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1231.15,$161.60 ,38216,117.4666667,117
+12869,40,159,30/04/2017,TRUE,Approved,OHM Cycles,Standard,high,medium,1458.17,$874.90 ,38750,117.6,118
+4086,90,159,25/10/2017,TRUE,Approved,Norco Bicycles,Standard,low,medium,363.01,$290.41 ,38482,117.7333333,118
+12425,25,159,5/3/2017,TRUE,Approved,Giant Bicycles,Road,medium,medium,1538.99,$829.65 ,42404,117.8666667,118
+4287,10,159,15/10/2017,FALSE,Approved,WeareA2B,Touring,medium,medium,1466.68,$363.25 ,41701,118,118
+11665,4,159,14/03/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,38573,118.1333333,118
+2293,22,159,6/1/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,60.34,$45.26 ,34165,118.2666667,118
+5800,37,160,18/06/2017,TRUE,Approved,OHM Cycles,Standard,low,medium,1793.43,$248.82 ,36361,118.4,118
+1031,12,160,28/09/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1231.15,$161.60 ,38216,118.5333333,119
+10568,82,161,24/07/2017,FALSE,Approved,Norco Bicycles,Standard,high,medium,1148.64,$689.18 ,42226,118.6666667,119
+3555,79,162,23/09/2017,TRUE,Approved,Norco Bicycles,Standard,medium,medium,1555.58,$818.01 ,37873,118.8,119
+12780,1,162,8/6/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,42688,118.9333333,119
+11286,98,162,28/03/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,358.39,$215.03 ,38002,119.0666667,119
+13650,52,163,7/9/2017,FALSE,Approved,Solex,Road,medium,large,1777.8,$820.78 ,33455,119.2,119
+1460,7,163,6/7/2017,FALSE,Approved,Giant Bicycles,Standard,medium,small,1311.44,"$1,167.18 ",35052,119.3333333,119
+15740,76,164,15/06/2017,FALSE,Approved,WeareA2B,Standard,low,medium,642.31,$513.85 ,37873,119.4666667,119
+16606,69,164,1/4/2017,TRUE,Approved,Giant Bicycles,Road,medium,medium,792.9,$594.68 ,36668,119.6,120
+10051,82,164,13/04/2017,TRUE,Approved,Norco Bicycles,Standard,high,medium,1148.64,$689.18 ,35667,119.7333333,120
+9999,7,165,14/04/2017,TRUE,Approved,Trek Bicycles,Road,low,medium,980.37,$234.43 ,40649,119.8666667,120
+16211,45,165,13/11/2017,FALSE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,35470,120,120
+11025,4,165,27/09/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,40649,120.1333333,120
+1687,17,165,19/10/2017,FALSE,Approved,Solex,Standard,high,medium,1024.66,$614.80 ,35378,120.2666667,120
+5102,3,165,19/09/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,38573,120.4,120
+1174,92,165,24/09/2017,TRUE,Approved,WeareA2B,Standard,medium,small,1415.01,"$1,259.36 ",38002,120.5333333,121
+44,46,165,22/12/2017,FALSE,Approved,Solex,Standard,low,medium,1289.85,$74.51 ,37668,120.6666667,121
+17415,84,165,23/03/2017,,Approved,Trek Bicycles,Road,medium,medium,290.62,$215.14 ,38339,120.8,121
+10453,12,165,17/12/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1231.15,$161.60 ,37838,120.9333333,121
+14438,8,166,28/10/2017,FALSE,Approved,Solex,Road,medium,small,1703.52,"$1,516.13 ",40649,121.0666667,121
+18897,94,166,9/2/2017,FALSE,Approved,Giant Bicycles,Standard,medium,large,1635.3,$993.66 ,41434,121.2,121
+16853,28,166,10/10/2017,,Approved,Norco Bicycles,Standard,medium,small,1216.14,"$1,082.36 ",33455,121.3333333,121
+1123,25,166,1/2/2017,FALSE,Approved,Giant Bicycles,Road,medium,medium,1538.99,$829.65 ,42404,121.4666667,121
+6912,100,166,9/10/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,1036.59,$206.35 ,33364,121.6,122
+15885,73,166,7/9/2017,TRUE,Approved,Solex,Standard,medium,medium,1945.43,$333.18 ,37499,121.7333333,122
+1928,2,166,31/05/2017,FALSE,Approved,Solex,Standard,medium,medium,71.49,$53.62 ,41245,121.8666667,122
+4814,66,166,11/7/2017,FALSE,Approved,Giant Bicycles,Road,low,small,590.26,$525.33 ,40487,122,122
+458,7,167,25/03/2017,FALSE,Approved,Giant Bicycles,Standard,medium,small,1311.44,"$1,167.18 ",40336,122.1333333,122
+7712,0,167,6/2/2017,TRUE,Approved,OHM Cycles,Standard,medium,medium,235.63,$125.07 ,35667,122.2666667,122
+19826,0,167,21/04/2017,FALSE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,36334,122.4,122
+12082,14,167,26/01/2017,FALSE,Approved,Solex,Standard,high,large,1842.92,"$1,105.75 ",41922,122.5333333,123
+4436,45,167,16/12/2017,TRUE,Approved,Trek Bicycles,Road,low,medium,980.37,$234.43 ,38693,122.6666667,123
+5982,98,167,3/11/2017,FALSE,Approved,OHM Cycles,Standard,medium,medium,795.34,$101.58 ,42295,122.8,123
+15979,36,167,20/09/2017,FALSE,Approved,Solex,Standard,low,medium,1289.85,$74.51 ,37220,122.9333333,123
+2669,66,167,15/01/2017,TRUE,Approved,Solex,Standard,medium,medium,1163.89,$589.27 ,34586,123.0666667,123
+6154,77,167,24/06/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1769.64,$108.76 ,34071,123.2,123
+5590,29,168,29/07/2017,FALSE,Approved,Norco Bicycles,Road,medium,medium,543.39,$407.54 ,34556,123.3333333,123
+11237,69,168,1/6/2017,TRUE,Approved,Giant Bicycles,Road,medium,medium,792.9,$594.68 ,35052,123.4666667,123
+17768,0,168,13/03/2017,FALSE,Approved,,,,,1571.83,,,123.6,124
+10924,54,168,26/03/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1292.84,$13.44 ,38482,123.7333333,124
+6877,12,168,24/03/2017,FALSE,Approved,WeareA2B,Standard,medium,medium,1231.15,$161.60 ,42172,123.8666667,124
+15760,3,168,18/03/2017,FALSE,Approved,Trek Bicycles,Standard,medium,large,2091.47,$388.92 ,40487,124,124
+4835,32,168,26/05/2017,FALSE,Approved,Giant Bicycles,Standard,medium,medium,642.7,$211.37 ,39427,124.1333333,124
+14687,64,168,5/2/2017,TRUE,Approved,Trek Bicycles,Standard,medium,large,1469.44,$596.55 ,36668,124.2666667,124
+1699,27,168,16/08/2017,TRUE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,41009,124.4,124
+3253,53,169,21/01/2017,TRUE,Approved,Giant Bicycles,Standard,high,medium,1274.93,$764.96 ,34586,124.5333333,125
+7702,0,169,30/10/2017,TRUE,Approved,Trek Bicycles,Standard,medium,medium,499.53,$388.72 ,42696,124.6666667,125
+13361,0,169,25/10/2017,TRUE,Approved,Trek Bicycles,Road,medium,medium,290.62,$215.14 ,38482,124.8,125
+14784,6,170,30/01/2017,TRUE,Approved,Solex,Standard,high,medium,748.17,$448.90 ,33552,124.9333333,125
+14545,0,170,21/09/2017,,Approved,Giant Bicycles,Standard,medium,large,569.56,$528.43 ,37874,125.0666667,125
+4572,5,170,10/5/2017,TRUE,Cancelled,Giant Bicycles,Standard,high,medium,1129.13,$677.48 ,38573,125.2,125
+557,54,170,16/01/2017,TRUE,Approved,WeareA2B,Standard,medium,medium,1807.45,$778.69 ,42145,125.3333333,125
+7288,45,171,27/10/2017,TRUE,Approved,Solex,Standard,medium,medium,441.49,$84.99 ,42172,125.4666667,125
+11866,13,171,19/06/2017,TRUE,Approved,Solex,Standard,medium,medium,1163.89,$589.27 ,42295,125.6,126
+5439,83,171,8/1/2017,TRUE,Approved,Solex,Touring,medium,large,2083.94,$675.03 ,40303,125.7333333,126
+12476,41,171,24/03/2017,TRUE,Approved,Solex,Road,medium,medium,416.98,$312.74 ,34165,125.8666667,126
+15523,73,171,15/09/2017,TRUE,Approved,Solex,Standard,medium,medium,1945.43,$333.18 ,38991,126,126
+7833,20,171,19/02/2017,TRUE,Approved,Trek Bicycles,Standard,medium,small,1775.81,"$1,580.47 ",41701,126.1333333,126
+17292,0,171,30/05/2017,TRUE,Approved,,,,,517.53,,,126.2666667,126
+3334,36,171,12/12/2017,TRUE,Approved,Solex,Standard,low,medium,945.04,$507.58 ,40784,126.4,126
+7327,18,171,13/09/2017,TRUE,Approved,Solex,Standard,medium,medium,575.27,$431.45 ,38339,126.5333333,127
+5347,60,172,17/06/2017,FALSE,Approved,Giant Bicycles,Standard,high,small,1977.36,"$1,759.85 ",40779,126.6666667,127
+12347,0,172,8/8/2017,TRUE,Approved,,,,,899.92,,,126.8,127
+13811,70,172,8/2/2017,TRUE,Approved,Trek Bicycles,Standard,high,medium,495.72,$297.43 ,42710,126.9333333,127
+2380,20,172,5/12/2017,TRUE,Approved,Trek Bicycles,Standard,medium,small,1775.81,"$1,580.47 ",42404,127.0666667,127
+5269,38,172,9/7/2017,FALSE,Approved,Solex,Standard,medium,medium,1577.53,$826.51 ,39526,127.2,127
+9075,1,172,19/12/2017,TRUE,Approved,Giant Bicycles,Standard,medium,medium,1403.5,$954.82 ,41245,127.3333333,127
+5902,15,172,22/02/2017,FALSE,Approved,Norco Bicycles,Standard,low,medium,958.74,$748.90 ,41345,127.4666667,127
