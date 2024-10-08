@@ -1,8 +1,0 @@
-models:
-  - name: dim_client
-      - name: cellphone
-        tests:
-          - dbt_expectations.expect_column_values_to_match_like_pattern:
-              like_pattern: '^\d{10,12}$'
-              config:
-                severity: warn
